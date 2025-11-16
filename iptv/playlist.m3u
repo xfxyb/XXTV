@@ -1,0 +1,375 @@
+################################ DEBUG INFO ################################
+Client IP:            240b:4009:25a:1801:ffff:6a19:71b8:a8b8
+----------------------------------------------------------------------------
+Source 1 (Cloudflare):  Region=Tokyo, City=Tokyo, ISP=Alibaba Cloud (Singapore) Private Limited
+Source 2 (IP API):      Region=日本, City=N/A, ISP=N/A
+Source 3 (URL Params):  Region=N/A, City=N/A, ISP=N/A
+----------------------------------------------------------------------------
+==> Final Decision:     Region=riben, City=tokyo, ISP=Unknown ISP
+############################################################################
+
+
+######央视频道######
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://logo.laobaitv.net/CCTV1" group-title="央视",CCTV1综合
+https://live.chinacert.cftest5.cn/mg/?id=608807420
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://logo.laobaitv.net/CCTV2" group-title="央视",CCTV2财经
+https://live.chinacert.cftest5.cn/mg/?id=631780532
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://logo.laobaitv.net/CCTV3" group-title="央视",CCTV3综艺
+https://live.chinacert.cftest5.cn/mg/?id=624878271
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://logo.laobaitv.net/CCTV4" group-title="央视",CCTV4中文国际
+https://live.chinacert.cftest5.cn/mg/?id=631780421
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://logo.laobaitv.net/CCTV5" group-title="央视",CCTV5体育
+https://live.chinacert.cftest5.cn/mg/?id=641886683
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://logo.laobaitv.net/CCTV5+" group-title="央视",CCTV5+体育赛事
+https://live.chinacert.cftest5.cn/mg/?id=641886773
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://logo.laobaitv.net/CCTV6" group-title="央视",CCTV6电影
+https://live.chinacert.cftest5.cn/mg/?id=624878396
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://logo.laobaitv.net/CCTV7" group-title="央视",CCTV7国防军事
+https://live.chinacert.cftest5.cn/mg/?id=673168121
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://logo.laobaitv.net/CCTV8" group-title="央视",CCTV8电视剧
+https://live.chinacert.cftest5.cn/mg/?id=624878356
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://logo.laobaitv.net/CCTV9" group-title="央视",CCTV9纪录
+https://live.chinacert.cftest5.cn/mg/?id=673168140
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://logo.laobaitv.net/CCTV10" group-title="央视",CCTV10科教
+https://live.chinacert.cftest5.cn/mg/?id=624878405
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://logo.laobaitv.net/CCTV11" group-title="央视",CCTV11戏曲
+https://live.chinacert.cftest5.cn/mg/?id=667987558
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://logo.laobaitv.net/CCTV12" group-title="央视",CCTV12社会与法
+https://live.chinacert.cftest5.cn/mg/?id=673168185
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://logo.laobaitv.net/CCTV13" group-title="央视",CCTV13新闻
+https://live.chinacert.cftest5.cn/mg/?id=608807423
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://logo.laobaitv.net/CCTV14" group-title="央视",CCTV14少儿
+https://live.chinacert.cftest5.cn/mg/?id=624878440
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://logo.laobaitv.net/CCTV15" group-title="央视",CCTV15音乐
+https://live.chinacert.cftest5.cn/mg/?id=673168223
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://logo.laobaitv.net/CCTV17" group-title="央视",CCTV17农业农村
+https://live.chinacert.cftest5.cn/mg/?id=673168256
+######央视频道end######
+
+######卫视频道######
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/bjws" group-title="卫视",北京卫视
+https://live.chinacert.cftest5.cn/zgst/?id=beijing
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/zjws" group-title="卫视",浙江卫视
+https://live.chinacert.cftest5.cn/zgst/?id=zhejiang
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/hunws" group-title="卫视",湖南卫视
+https://live.chinacert.cftest5.cn/zgst/?id=hunan
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/sdws" group-title="卫视",山东卫视
+https://live.chinacert.cftest5.cn/zgst/?id=shandong
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://logo.laobaitv.net/dfws" group-title="卫视",东方卫视
+https://live.chinacert.cftest5.cn/mg/?id=651632648
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://logo.laobaitv.net/jsws" group-title="卫视",江苏卫视
+https://live.chinacert.cftest5.cn/mg/?id=623899368
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://logo.laobaitv.net/gdws" group-title="卫视",广东卫视
+https://live.chinacert.cftest5.cn/mg/?id=608831231
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/tjws" group-title="卫视",天津卫视
+https://live.chinacert.cftest5.cn/zgst/?id=tianjin
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/szws" group-title="卫视",深圳卫视
+https://live.chinacert.cftest5.cn/zgst/?id=shenzhen
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/xmws" group-title="卫视",厦门卫视
+https://live.chinacert.cftest5.cn/zgst/?id=xiamen
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://logo.laobaitv.net/jxws" group-title="卫视",江西卫视
+https://live.chinacert.cftest5.cn/mg/?id=783847495
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://logo.laobaitv.net/henws" group-title="卫视",河南卫视
+https://live.chinacert.cftest5.cn/mg/?id=790187291
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://logo.laobaitv.net/shannxws" group-title="卫视",陕西卫视
+https://live.chinacert.cftest5.cn/mg/?id=738910838
+#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="https://logo.laobaitv.net/dwqws" group-title="卫视",大湾区卫视
+https://live.chinacert.cftest5.cn/mg/?id=608917627
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://logo.laobaitv.net/hubws" group-title="卫视",湖北卫视
+https://live.chinacert.cftest5.cn/mg/?id=947472496
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://logo.laobaitv.net/jlws" group-title="卫视",吉林卫视
+https://live.chinacert.cftest5.cn/mg/?id=947472500
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://logo.laobaitv.net/qhws" group-title="卫视",青海卫视
+https://live.chinacert.cftest5.cn/mg/?id=947472506
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://logo.laobaitv.net/dnws" group-title="卫视",东南卫视
+https://live.chinacert.cftest5.cn/mg/?id=849116810
+#EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-logo="https://logo.laobaitv.net/lyws" group-title="卫视",海南卫视
+https://live.chinacert.cftest5.cn/mg/?id=947472502
+#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="https://logo.laobaitv.net/hxws" group-title="卫视",海峡卫视
+https://live.chinacert.cftest5.cn/mg/?id=849119120
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="https://logo.laobaitv.net/btws" group-title="卫视",兵团卫视
+https://live.chinacert.cftest5.cn/mg/?id=956923145
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://logo.laobaitv.net/lnws" group-title="卫视",辽宁卫视
+https://live.chinacert.cftest5.cn/mg/?id=630291707
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/gxws" group-title="卫视",广西卫视
+https://live.chinacert.cftest5.cn/zgst/?id=guangxi
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/scws" group-title="卫视",四川卫视
+https://live.chinacert.cftest5.cn/zgst/?id=sichuan
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/gzws" group-title="卫视",贵州卫视
+https://live.chinacert.cftest5.cn/zgst/?id=guizhou
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/cqws" group-title="卫视",重庆卫视
+https://live.chinacert.cftest5.cn/zgst/?id=chongqing
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/ynws" group-title="卫视",云南卫视
+https://live.chinacert.cftest5.cn/zgst/?id=yunnan
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/hebws" group-title="卫视",河北卫视
+https://live.chinacert.cftest5.cn/zgst/?id=hebei
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/shanxws" group-title="卫视",山西卫视
+https://live.chinacert.cftest5.cn/zgst/?id=shanxi
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/nmgws" group-title="卫视",内蒙古卫视
+https://live.chinacert.cftest5.cn/zgst/?id=neimenggu
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/hljws" group-title="卫视",黑龙江卫视
+https://live.chinacert.cftest5.cn/zgst/?id=heilongjiang
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" http-user-agent="libmpv" tvg-logo="https://logo.laobaitv.net/ahws" group-title="卫视",安徽卫视
+https://live.chinacert.cftest5.cn/zgst/?id=anhui
+#EXTINF:-1 tvg-id="" tvg-name="中国农林卫视" tvg-logo="https://logo.laobaitv.net/zgnlws" group-title="卫视",中国农林卫视
+https://live.chinacert.cftest5.cn/mg/?id=956904896
+######卫视频道end######
+
+######本地频道######
+#EXTINF:-1 tvg-id="" tvg-name="上海新闻综合" tvg-logo="https://logo.laobaitv.net/shxwzh" group-title="上海",上海新闻综合
+https://live.chinacert.cftest5.cn/mg/?id=651632657
+#EXTINF:-1 tvg-id="" tvg-name="上视东方影视" tvg-logo="https://logo.laobaitv.net/ssdfys" group-title="上海",上视东方影视
+https://live.chinacert.cftest5.cn/mg/?id=617290047
+#EXTINF:-1 tvg-id="" tvg-name="南京新闻综合" tvg-logo="https://logo.laobaitv.net/njxwzh" group-title="南京",南京新闻综合频道
+https://live.chinacert.cftest5.cn/mg/?id=838109047
+#EXTINF:-1 tvg-id="" tvg-name="南京教科" tvg-logo="https://logo.laobaitv.net/njjk" group-title="南京",南京教科频道
+https://live.chinacert.cftest5.cn/mg/?id=838153729
+#EXTINF:-1 tvg-id="" tvg-name="南京十八" tvg-logo="https://logo.laobaitv.net/njsb" group-title="南京",南京十八频道
+https://live.chinacert.cftest5.cn/mg/?id=838151753
+#EXTINF:-1 tvg-id="" tvg-name="江苏城市" tvg-logo="https://logo.laobaitv.net/jscs" group-title="江苏",江苏城市频道
+https://live.chinacert.cftest5.cn/mg/?id=626064714
+#EXTINF:-1 tvg-id="" tvg-name="江苏国际" tvg-logo="https://logo.laobaitv.net/jsgj" group-title="江苏",江苏国际频道
+https://live.chinacert.cftest5.cn/mg/?id=626064674
+#EXTINF:-1 tvg-id="" tvg-name="江苏教育" tvg-logo="https://logo.laobaitv.net/jsjy" group-title="江苏",江苏教育频道
+https://live.chinacert.cftest5.cn/mg/?id=628008321
+#EXTINF:-1 tvg-id="" tvg-name="江苏影视" tvg-logo="https://logo.laobaitv.net/jsys" group-title="江苏",江苏影视频道
+https://live.chinacert.cftest5.cn/mg/?id=626064697
+#EXTINF:-1 tvg-id="" tvg-name="江苏综艺" tvg-logo="https://logo.laobaitv.net/jszy" group-title="江苏",江苏综艺频道
+https://live.chinacert.cftest5.cn/mg/?id=626065193
+#EXTINF:-1 tvg-id="" tvg-name="江苏新闻" tvg-logo="https://logo.laobaitv.net/jsxw" group-title="江苏",江苏新闻频道
+https://live.chinacert.cftest5.cn/mg/?id=626064693
+#EXTINF:-1 tvg-id="" tvg-name="盐城新闻" tvg-logo="https://logo.laobaitv.net/ycxw" group-title="江苏",盐城新闻综合
+https://live.chinacert.cftest5.cn/mg/?id=639731825
+#EXTINF:-1 tvg-id="" tvg-name="淮安新闻" tvg-logo="https://logo.laobaitv.net/haxw" group-title="江苏",淮安新闻综合
+https://live.chinacert.cftest5.cn/mg/?id=639731826
+#EXTINF:-1 tvg-id="" tvg-name="泰州新闻" tvg-logo="https://logo.laobaitv.net/tzxw" group-title="江苏",泰州新闻综合
+https://live.chinacert.cftest5.cn/mg/?id=639731818
+#EXTINF:-1 tvg-id="" tvg-name="连云港新闻" tvg-logo="https://logo.laobaitv.net/lygxw" group-title="江苏",连云港新闻综合
+https://live.chinacert.cftest5.cn/mg/?id=639731715
+#EXTINF:-1 tvg-id="" tvg-name="宿迁新闻" tvg-logo="https://logo.laobaitv.net/sqxw" group-title="江苏",宿迁新闻综合
+https://live.chinacert.cftest5.cn/mg/?id=639731832
+#EXTINF:-1 tvg-id="" tvg-name="徐州新闻" tvg-logo="https://logo.laobaitv.net/xzxw" group-title="江苏",徐州新闻综合
+https://live.chinacert.cftest5.cn/mg/?id=639731747
+#EXTINF:-1 tvg-id="" tvg-name="江阴新闻" tvg-logo="https://logo.laobaitv.net/jyxw" group-title="江苏",江阴新闻综合
+https://live.chinacert.cftest5.cn/mg/?id=955227979
+#EXTINF:-1 tvg-id="" tvg-name="南通新闻" tvg-logo="https://logo.laobaitv.net/ntxw" group-title="江苏",南通新闻综合
+https://live.chinacert.cftest5.cn/mg/?id=955227985
+#EXTINF:-1 tvg-id="" tvg-name="宜兴新闻" tvg-logo="https://logo.laobaitv.net/yxxw" group-title="江苏",宜兴新闻综合
+https://live.chinacert.cftest5.cn/mg/?id=955227996
+#EXTINF:-1 tvg-id="" tvg-name="溧水新闻" tvg-logo="https://logo.laobaitv.net/lsxw" group-title="江苏",溧水新闻综合
+https://live.chinacert.cftest5.cn/mg/?id=639737327
+#EXTINF:-1 tvg-id="" tvg-name="陕西银龄" tvg-logo="https://logo.laobaitv.net/shannxyl" group-title="陕西",陕西银龄频道
+https://live.chinacert.cftest5.cn/mg/?id=956909362
+#EXTINF:-1 tvg-id="" tvg-name="陕西都市青春" tvg-logo="https://logo.laobaitv.net/shannxdsqc" group-title="陕西",陕西都市青春频道
+https://live.chinacert.cftest5.cn/mg/?id=956909358
+#EXTINF:-1 tvg-id="" tvg-name="陕西体育休闲" tvg-logo="https://logo.laobaitv.net/shannxtyxx" group-title="陕西",陕西体育休闲频道
+https://live.chinacert.cftest5.cn/mg/?id=956909356
+#EXTINF:-1 tvg-id="" tvg-name="陕西秦腔" tvg-logo="https://logo.laobaitv.net/shannxqq" group-title="陕西",陕西秦腔频道
+https://live.chinacert.cftest5.cn/mg/?id=956909303
+#EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯" tvg-logo="https://logo.laobaitv.net/shannxxwzx" group-title="陕西",陕西新闻资讯频道
+https://live.chinacert.cftest5.cn/mg/?id=956909289
+#EXTINF:-1 tvg-id="" tvg-name="财富天下" tvg-logo="https://logo.laobaitv.net/cftx" group-title="未分类",财富天下
+https://live.chinacert.cftest5.cn/mg/?id=956923159
+######本地频道end######
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://logo.laobaitv.net/CGTN" group-title="央视",CGTN
+https://live.chinacert.cftest5.cn/mg/?id=609017205
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="https://logo.laobaitv.net/CCTV4oz" group-title="央视",CCTV4欧洲
+https://live.chinacert.cftest5.cn/mg/?id=608807419
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="https://logo.laobaitv.net/CCTV4mz" group-title="央视",CCTV4美洲
+https://live.chinacert.cftest5.cn/mg/?id=608807416
+#EXTINF:-1 tvg-id="" tvg-name="CGTN记录" tvg-logo="https://logo.laobaitv.net/CGTNjl" group-title="央视",CGTN外语纪录
+https://live.chinacert.cftest5.cn/mg/?id=609006487
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="经典香港电影" tvg-logo="https://logo.laobaitv.net/jdxgdy" group-title="未分类",经典香港电影
+https://live.chinacert.cftest5.cn/mg/?id=625703337
+#EXTINF:-1 tvg-id="" tvg-name="抗战经典影片" tvg-logo="https://logo.laobaitv.net/kzjdyp" group-title="未分类",抗战经典影片
+https://live.chinacert.cftest5.cn/mg/?id=617432318
+#EXTINF:-1 tvg-id="" tvg-name="新片放映厅" tvg-logo="https://logo.laobaitv.net/xpfyt" group-title="未分类",新片放映厅
+https://live.chinacert.cftest5.cn/mg/?id=619495952
+#EXTINF:-1 tvg-id="" tvg-name="CHC影迷电影" tvg-logo="https://logo.laobaitv.net/CHCymdy" group-title="未分类",CHC影迷电影
+https://live.chinacert.cftest5.cn/mg/?id=952383261
+#EXTINF:-1 tvg-id="" tvg-name="和美乡途轮播台" tvg-logo="https://logo.laobaitv.net/hmxtlbt" group-title="未分类",和美乡途轮播台
+https://live.chinacert.cftest5.cn/mg/?id=713591450
+#EXTINF:-1 tvg-id="" tvg-name="高清大片" tvg-logo="https://logo.laobaitv.net/gqdp" group-title="未分类",高清大片
+https://live.chinacert.cftest5.cn/mg/?id=629943678
+#EXTINF:-1 tvg-id="" tvg-name="南方影视" tvg-logo="https://logo.laobaitv.net/nfys" group-title="未分类",南方影视
+https://live.chinacert.cftest5.cn/mg/?id=614961829
+#EXTINF:-1 tvg-id="" tvg-name="血色山河·抗日战争影像志" tvg-logo="https://logo.laobaitv.net/xssh·krzzyxz" group-title="未分类",血色山河·抗日战争影像志
+https://live.chinacert.cftest5.cn/mg/?id=713600957
+
+https://live.chinacert.cftest5.cn/mg/?id=609169285
+#EXTINF:-1 tvg-id="" tvg-name="最强综艺趴" tvg-logo="https://logo.laobaitv.net/zqzyp" group-title="未分类",最强综艺趴
+https://live.chinacert.cftest5.cn/mg/?id=629942228
+#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="https://logo.laobaitv.net/jjkt" group-title="未分类",嘉佳卡通
+https://live.chinacert.cftest5.cn/mg/?id=614952364
+#EXTINF:-1 tvg-id="" tvg-name="经典动画大集合" tvg-logo="https://logo.laobaitv.net/jddhdjh" group-title="未分类",经典动画大集合
+https://live.chinacert.cftest5.cn/mg/?id=629942219
+#EXTINF:-1 tvg-id="" tvg-name="新动力量创一流" tvg-logo="https://logo.laobaitv.net/xdllcyl" group-title="未分类",新动力量创一流
+https://live.chinacert.cftest5.cn/mg/?id=713589837
+#EXTINF:-1 tvg-id="" tvg-name="环球旅游" tvg-logo="https://logo.laobaitv.net/hqly" group-title="未分类",环球旅游
+https://live.chinacert.cftest5.cn/mg/?id=958475356
+#EXTINF:-1 tvg-id="" tvg-name="钱塘江" tvg-logo="https://logo.laobaitv.net/qtj" group-title="未分类",钱塘江
+https://live.chinacert.cftest5.cn/mg/?id=647370520
+#EXTINF:-1 tvg-id="" tvg-name="五环传奇" tvg-logo="https://logo.laobaitv.net/whcq" group-title="未分类",五环传奇
+https://live.chinacert.cftest5.cn/mg/?id=707671890
+#EXTINF:-1 tvg-id="" tvg-name="赛事最经典" tvg-logo="https://logo.laobaitv.net/sszjd" group-title="未分类",赛事最经典
+https://live.chinacert.cftest5.cn/mg/?id=646596895
+
+#EXTINF:-1 tvg-id="" tvg-name="体坛名栏汇" tvg-logo="https://logo.laobaitv.net/ttmlh" group-title="体育",体坛名栏汇
+https://live.chinacert.cftest5.cn/mg/?id=629943305
+
+#EXTINF:-1 tvg-id="" tvg-name="咪咕24小时体育台" tvg-logo="https://logo.laobaitv.net/mg24xstyt" group-title="体育",咪咕24小时体育台
+https://live.chinacert.cftest5.cn/mg/?id=654102378
+#EXTINF:-1 tvg-id="" tvg-name="中国教育2台" tvg-logo="https://logo.laobaitv.net/zgjy2t" group-title="体育",24小时城市联赛轮播台
+https://live.chinacert.cftest5.cn/mg/?id=915512915
+#EXTINF:-1 tvg-id="" tvg-name="武术世界" tvg-logo="https://logo.laobaitv.net/wssj" group-title="体育",武术世界
+https://live.chinacert.cftest5.cn/mg/?id=958475359
+#EXTINF:-1 tvg-id="" tvg-name="中国教育1台" tvg-logo="https://logo.laobaitv.net/zgjy1t" group-title="未分类",CETV1
+https://live.chinacert.cftest5.cn/mg/?id=923287154
+#EXTINF:-1 tvg-id="" tvg-name="中国教育2台" tvg-logo="https://logo.laobaitv.net/zgjy2t" group-title="未分类",CETV2
+https://live.chinacert.cftest5.cn/mg/?id=923287211
+#EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="https://logo.laobaitv.net/zgjy4t" group-title="未分类",CETV4
+https://live.chinacert.cftest5.cn/mg/?id=923287339
+#EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="https://logo.laobaitv.net/sdjy" group-title="未分类",山东教育
+https://live.chinacert.cftest5.cn/mg/?id=609154353
+
+
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.laobaitv.net/fhzw" group-title="港澳台",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.laobaitv.net/fhzx" group-title="港澳台",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.laobaitv.net/fhxg" group-title="港澳台",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.laobaitv.net/fct" group-title="港澳台",TVB 翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.laobaitv.net/mzt" group-title="港澳台",TVB 明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.laobaitv.net/wxxw" group-title="港澳台",无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://logo.laobaitv.net/tvbplus" group-title="港澳台",TVB PLUS
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 tvg-name="VIU TV" tvg-logo="https://logo.laobaitv.net/viutv" group-title="港澳台",VIU TV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://logo.laobaitv.net/asam" group-title="港澳台",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://logo.laobaitv.net/aswx" group-title="港澳台",澳视卫星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 tvg-name="澳视体育" tvg-logo="https://logo.laobaitv.net/asty" group-title="港澳台",澳门体育
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="https://logo.laobaitv.net/sltwt" group-title="港澳台",三立台湾台
+https://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
+#EXTINF:-1 tvg-name="台视HD" tvg-logo="https://logo.laobaitv.net/tshd" group-title="港澳台",台视 HD
+https://smart.dxjc.pp.ua/smart.php?id=ttv_taiwan&token=tmxk
+#EXTINF:-1 tvg-name="中视HD" tvg-logo="https://logo.laobaitv.net/zshd" group-title="港澳台",中视 HD
+https://smart.dxjc.pp.ua/smart.php?id=zhongshihd_twn&token=tmxk
+#EXTINF:-1 tvg-name="民视HD" tvg-logo="https://logo.laobaitv.net/mshd" group-title="港澳台",民视 HD
+https://smart.dxjc.pp.ua/smart.php?id=ftvhd_taiwan&token=tmxk
+#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://logo.laobaitv.net/dsxwt" group-title="港澳台",东森新闻台
+https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.laobaitv.net/ddz" group-title="互联网;棋牌",虎牙 JJ斗地主
+https://live.laobaitv.net/huya/152698
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.laobaitv.net/ddz" group-title="互联网;棋牌",虎牙 JJ斗地主 副房间
+https://live.laobaitv.net/huya/23695493
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.laobaitv.net/ddz" group-title="互联网;棋牌",虎牙 JJ斗地主 精选回放
+https://live.laobaitv.net/huya/30814432
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.laobaitv.net/ddz" group-title="互联网;棋牌",虎牙 出奇智胜斗地主
+https://live.laobaitv.net/huya/139168
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.laobaitv.net/gd" group-title="互联网;棋牌",咪咕 掼蛋精英赛
+https://live.chinacert.cftest5.cn/mg/?id=631354620
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.laobaitv.net/gd" group-title="互联网;棋牌",虎牙 虎牙掼蛋赛事
+https://live.laobaitv.net/huya/139167
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.laobaitv.net/yxlm" group-title="互联网;电竞",英雄联盟赛事
+https://live.laobaitv.net/huya/660000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.laobaitv.net/huya" group-title="互联网;影视",虎牙 电影轮播
+https://live.laobaitv.net/huya/11342412
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.laobaitv.net/huya" group-title="互联网;影视",虎牙 柯南
+https://live.laobaitv.net/huya/30080148
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.laobaitv.net/huya" group-title="互联网;影视",虎牙 蜡笔小新
+https://live.laobaitv.net/huya/30362138
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.laobaitv.net/huya" group-title="互联网;影视",虎牙 鹿鼎记
+https://live.laobaitv.net/huya/23650774
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.laobaitv.net/huya" group-title="互联网;影视",虎牙 爱情公寓
+https://live.laobaitv.net/huya/11336726
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.laobaitv.net/douyu" group-title="互联网;影视",斗鱼 海绵宝宝
+https://live.laobaitv.net/douyu/12400977
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.laobaitv.net/douyu" group-title="互联网;影视",斗鱼 RunningMan
+https://live.laobaitv.net/douyu/131977
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://logo.laobaitv.net/hbo" group-title="港澳台",HBO 台湾
+https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://logo.laobaitv.net/cinemax" group-title="港澳台",Cinemax 台湾
+https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
+#EXTINF:-1 tvg-name="好莱坞电影台" tvg-logo="https://logo.laobaitv.net/hlwdyt" group-title="港澳台",好莱坞电影台
+https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
+#EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://logo.laobaitv.net/axntaiwan" group-title="港澳台",AXN 台湾
+https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://logo.laobaitv.net/hbo" group-title="海外",HBO
+https://bee.laobaitv.net/HBO/index.m3u8
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://logo.laobaitv.net/hbo2" group-title="海外",HBO 2
+https://bee.laobaitv.net/HBO-2/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://logo.laobaitv.net/discoverychannel" group-title="海外",Discovery Channel
+https://bee.laobaitv.net/Discovery-Channel/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Life" tvg-logo="https://logo.laobaitv.net/discoverylife" group-title="海外",Discovery Life
+https://bee.laobaitv.net/Discovery-Life/index.m3u8
+#EXTINF:-1 tvg-name="Cinemax West" tvg-logo="https://logo.laobaitv.net/cinemaxwest" group-title="海外",Cinemax West
+https://bee.laobaitv.net/Cinemax-West/index.m3u8
+#EXTINF:-1 tvg-name="Great Movies" tvg-logo="https://logo.laobaitv.net/greatmovies" group-title="海外",Great Movies
+https://bee.laobaitv.net/UK-Great-Movies/index.m3u8
+#EXTINF:-1 tvg-name="NHK World Japan" tvg-logo="https://logo.laobaitv.net/nhkworldjapan" group-title="海外",NHK World Japan
+https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
+
+
+#EXTINF:-1 tvg-id="五星体育HD" tvg-name="五星体育" tvg-logo="https://logo.laobaitv.net/wxty" group-title="体育",五星体育
+https://other.chinacert.cftest5.cn/wxty.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://logo.laobaitv.net/espn" group-title="体育",ESPN
+https://bee.laobaitv.net/ESPN/index.m3u8
+#EXTINF:-1 tvg-name="ESPN2" tvg-logo="https://logo.laobaitv.net/espn2" group-title="体育",ESPN 2
+https://bee.laobaitv.net/ESPN-2/index.m3u8
+#EXTINF:-1 tvg-name="ESPN NEWS" tvg-logo="https://logo.laobaitv.net/espnnews" group-title="体育",ESPN News
+https://bee.laobaitv.net/ESPN-News/index.m3u8
+#EXTINF:-1 tvg-name="ESPN2" tvg-logo="https://logo.laobaitv.net/espnu" group-title="体育",ESPN U
+https://bee.laobaitv.net/ESPN-U/index.m3u8
+#EXTINF:-1 tvg-name="ESPN DEPORTES" tvg-logo="https://logo.laobaitv.net/espndeportes" group-title="体育",ESPN Deportes
+https://bee.laobaitv.net/ESPN-Deportes/index.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://logo.laobaitv.net/skysportsmainevent" group-title="体育",SKY SPORTS MAIN EVENT
+https://bee.laobaitv.net/Sky-Sports-Main-Event/index.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://logo.laobaitv.net/skysportsfootball" group-title="体育",SKY SPORTS FOOTBALL
+https://bee.laobaitv.net/Sky-Sports-Football/index.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.laobaitv.net/skysportspremierleague" group-title="体育",SKY SPORTS PREMIER LEAGUE
+https://bee.laobaitv.net/Sky-Sports-Premier-League/index.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS NEWs" tvg-logo="https://logo.laobaitv.net/skysportsnews" group-title="体育",SKY SPORTS NEWS
+https://bee.laobaitv.net/Sky-Sports-News/index.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS MIX" tvg-logo="https://logo.laobaitv.net/skysportsmix" group-title="体育",SKY SPORTS MIX
+https://bee.laobaitv.net/Sky-Sports-Mix/index.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS ARENA" tvg-logo="https://logo.laobaitv.net/skysportsarena" group-title="体育",SKY SPORTS ARENA
+https://bee.laobaitv.net/Sky-Sports-Arena/index.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS CRICKET" tvg-logo="https://logo.laobaitv.net/skysportscricket" group-title="体育",SKY SPORTS CRICKET
+https://bee.laobaitv.net/Sky-Sports-Cricket/index.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS Tennis" tvg-logo="https://logo.laobaitv.net/skysportstennis" group-title="体育",SKY SPORTS Tennis
+https://bee.laobaitv.net/Sky-Sports-Tennis/index.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS F1" tvg-logo="https://logo.laobaitv.net/skysportsf1" group-title="体育",SKY SPORTS F1
+https://bee.laobaitv.net/Sky-Sports-F1/index.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS GOLF" tvg-logo="https://logo.laobaitv.net/skysportsgolf" group-title="体育",SKY SPORTS GOLF
+https://bee.laobaitv.net/Sky-Sports-Golf/index.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS RACING" tvg-logo="https://logo.laobaitv.net/skysportsracing" group-title="体育",SKY SPORTS RACING
+https://bee.laobaitv.net/Sky-Sports-Racing/index.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS" tvg-logo="https://logo.laobaitv.net/beinsports" group-title="体育",BEIN SPORTS
+https://bee.laobaitv.net/Bein-Sports-USA/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+

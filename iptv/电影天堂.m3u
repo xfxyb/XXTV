@@ -1,0 +1,778 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="未分类",FOX电影[1280*720]
+http://60.251.59.178:8527/http/192.168.77.7:8088/hls/105/startwest89.m3u8
+#EXTINF:-1 group-title="未分类",1905电影网
+http://106.53.212.251/daili/bili.php?id=22728767
+#EXTINF:-1 group-title="未分类",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="未分类",好莱坞电影
+http://115.207.200.179:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="未分类",CHC家庭影院
+http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 group-title="未分类",CHC高清电影
+http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 group-title="未分类",CHC动作电影
+http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 group-title="未分类",国外影院[1280*720]
+http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_382971876_4000.flv
+#EXTINF:-1 group-title="未分类",国内影院[1280*720]
+http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_199681168_4000.flv
+#EXTINF:-1 group-title="未分类",恐怖影院[1280*720]
+http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_363783415_4000.flv
+#EXTINF:-1 group-title="未分类",经典剧场[1280*720]
+http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_616645877_4000.flv
+#EXTINF:-1 group-title="未分类",美剧1[1280*720]
+http://121.51.249.99/txdirect.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="未分类",美剧2[1280*720]
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752785-1099531752785-86436255486705664-2199063629026-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="未分类",美剧3[1024*576]
+http://121.51.249.99/txdirect.hls.huya.com/src/1423782054-1423782054-6115097358561705984-2847687564-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="未分类",电影1[1711*720]
+http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
+#EXTINF:-1 group-title="未分类",电影2[1280*720]
+http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
+#EXTINF:-1 group-title="未分类",电影3[1280*720]
+http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
+#EXTINF:-1 group-title="未分类",电影4[1280*720]
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="未分类",电影5[800*600]
+http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
+#EXTINF:-1 group-title="未分类",电影台1
+http://117.148.179.160/PLTV/88888888/224/3221231645/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台2
+http://117.148.179.160/PLTV/88888888/224/3221231643/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台3
+http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台4
+http://117.148.179.160/PLTV/88888888/224/3221231652/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台5
+http://117.148.179.160/PLTV/88888888/224/3221231679/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台6
+http://117.148.179.160/PLTV/88888888/224/3221231687/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台7
+http://117.148.179.160/PLTV/88888888/224/3221231688/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台8
+http://117.148.179.160/PLTV/88888888/224/3221231699/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台9
+http://117.148.179.160/PLTV/88888888/224/3221231709/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台10
+http://117.148.179.160/PLTV/88888888/224/3221231742/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台11
+http://117.148.179.160/PLTV/88888888/224/3221231787/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台12
+http://117.148.179.160/PLTV/88888888/224/3221231564/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台13
+http://117.148.179.160/PLTV/88888888/224/3221231516/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台14
+http://117.148.179.160/PLTV/88888888/224/3221231790/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台15
+http://117.148.179.160/PLTV/88888888/224/3221231498/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台16
+http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台17
+http://117.148.179.160/PLTV/88888888/224/3221231565/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台18
+http://117.148.179.160/PLTV/88888888/224/3221231513/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台19
+http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台20
+http://117.148.179.160/PLTV/88888888/224/3221231754/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台21
+http://117.148.179.160/PLTV/88888888/224/3221231562/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台22
+http://117.148.179.160/PLTV/88888888/224/3221231504/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台23
+http://117.148.179.160/PLTV/88888888/224/3221231757/index.m3u8
+#EXTINF:-1 group-title="未分类",电影台24
+http://117.148.179.160/PLTV/88888888/224/3221231621/index.m3u8
+#EXTINF:-1 group-title="未分类",超级电影[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="未分类",超级电视剧[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="未分类",超级综艺[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225768/index.m3u8
+#EXTINF:-1 group-title="未分类",超级体育[1920*1080]
+http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8
+#EXTINF:-1 group-title="未分类",超级电视剧[1920*1080]
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="未分类",超级电影[1920*1080]
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 group-title="未分类",BesTV华语影院HD[1280*720]
+rtsp://183.252.166.199/PLTV/88888888/224/3221226757/45949783.smil
+#EXTINF:-1 group-title="未分类",BesTV欧美影院HD[1280*720]
+rtsp://183.252.166.199/PLTV/88888888/224/3221226748/45950069.smil
+#EXTINF:-1 group-title="未分类",BesTV高清剧院[1920*1080]
+rtsp://183.252.166.199/PLTV/88888888/224/3221226761/45973212.smil
+#EXTINF:-1 group-title="未分类",BesTV经典港剧[768*576]
+rtsp://183.252.166.199/PLTV/88888888/224/3221226022/10000100000000060000000002296864_0.smil
+#EXTINF:-1 group-title="未分类",仙界®东北热剧_蓝光LD
+http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
+#EXTINF:-1 group-title="未分类",仙界®欢乐剧场_蓝光超清LD
+http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
+#EXTINF:-1 group-title="未分类",仙界®爱情喜剧_蓝光超清LD
+http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1 group-title="未分类",仙界®哈哈炫动_蓝光超清LD
+http://39.134.66.66/PLTV/88888888/224/3221225534/index.m3u8
+#EXTINF:-1 group-title="未分类",仙界®精品大剧_蓝光超清LD
+http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:-1 group-title="未分类",仙界®惊悚悬疑_蓝光超清LD
+http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
+#EXTINF:-1 group-title="未分类",仙界®动作电影_蓝光超清LD
+http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
+#EXTINF:-1 group-title="未分类",仙界®超级电视剧HD
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="未分类",仙界®超级电影台HD
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="未分类",K K_经典好剧[1280*720]
+http://hpull.kktv8.com/livekktv/153793844/playlist.m3u8
+#EXTINF:-1 group-title="未分类",K K_科幻怪兽[800*600]
+http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
+#EXTINF:-1 group-title="未分类",K K_喜剧电影[1280*720]
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 group-title="未分类",K K_女神影院[1280*720]
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 group-title="未分类",经典好剧[1280*720]
+http://hpull.kktv8.com/livekktv/153793844/playlist.m3u8
+#EXTINF:-1 group-title="未分类",喜剧电影[1280*720]
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 group-title="未分类",女神影院[1280*720]
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 group-title="未分类",少年包青天[960*720]
+http://106.53.212.251/daili/bili.php?id=2803563
+#EXTINF:-1 group-title="未分类",《精选影视轮》高清轮播[1280*720]
+http://106.53.212.251/daili/bili.php?id=23424971
+#EXTINF:-1 group-title="未分类",宝莱坞[1920*1080]
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 group-title="未分类",CHC华城影视[640*360][640*360]
+http://live1.nty.tv189.com/tm-cridyty-800k.m3u8?sign=&guid=&uid=
+#EXTINF:-1 group-title="未分类",斗鱼电影1[1280*720][1280*720]
+http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv
+#EXTINF:-1 group-title="未分类",斗鱼电影2[1920*1080][1920*1080]
+http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv
+#EXTINF:-1 group-title="未分类",斗鱼电影3[1920*1080][1920*1080]
+http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv
+#EXTINF:-1 group-title="未分类",斗鱼电影4[720*5255][1920*1080]
+http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv
+#EXTINF:-1 group-title="未分类",斗鱼电影5[788*480][720*5255]
+http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv
+#EXTINF:-1 group-title="未分类",斗鱼电影6[1280*720][1280*720]
+http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv
+#EXTINF:-1 group-title="未分类",斗鱼电影7[1920*1080][1920*1080]
+http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
+#EXTINF:-1 group-title="未分类",酷狗小品[1920*1080]
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_202319553_avc.m3u8
+#EXTINF:-1 group-title="未分类",酷狗小品2[1280*720]
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_1548332035_avc.m3u8
+#EXTINF:-1 group-title="未分类",4K剧场[1280*720]
+http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
+#EXTINF:-1 group-title="未分类",爱情公寓[1280*720]
+http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
+#EXTINF:-1 group-title="未分类",红色谍战剧场[1280*720]
+http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
+#EXTINF:-1 group-title="未分类",少林剧场[1280*720]
+http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
+#EXTINF:-1 group-title="未分类",神探狄仁杰[1280*720]
+http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
+#EXTINF:-1 group-title="未分类",黄金剧场[1280*720]
+http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
+#EXTINF:-1 group-title="未分类",追剧少女[1280*720]
+http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
+#EXTINF:-1 group-title="未分类",古龙作品集[1280*720]
+http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
+#EXTINF:-1 group-title="未分类",经典贺岁片[1280*720]
+http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
+#EXTINF:-1 group-title="未分类",CHC华城影视[640*360]
+http://live1.nty.tv189.com/tm-cridyty-800k.m3u8?sign=&guid=&uid=
+#EXTINF:-1 group-title="未分类",四川影视HD[1280*720]
+http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+#EXTINF:-1 group-title="未分类",福州影视FHD[1920*1080]
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 group-title="未分类",安徽影视[960*540]
+http://zbbf2.ahtv.cn/live/756.m3u8
+#EXTINF:-1 group-title="未分类",西安影视[1024*576]
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",海西影视[720*576]
+http://stream.haixitv.cn/1/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",吉林篮球[768*576]
+http://stream1.jlntv.cn/lqpd/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",4+汽车HD[1280*720]
+http://pull-g.kktv8.com/livekktv/50118532.flv
+#EXTINF:-1 group-title="未分类",体育赛事FHD[1920*1080]
+http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8
+#EXTINF:-1 group-title="未分类",HWF散打HD[1280*720]
+http://pull-g.kktv8.com/livekktv/57588147.flv
+#EXTINF:-1 group-title="未分类",极速汽车FHD[1920*1080]
+http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="未分类",数码时代高清FHD[1920*1080]
+http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="未分类",唐伯虎点秋香[624*336]
+https://6721.liveplay.now.qq.com/live/6721_338ed8ff85c9f15e54294e4aa4c98b1e.m3u8?txSecret=cc887340b879606ee081c0ef74733650&txTime=60CEBD97
+#EXTINF:-1 group-title="未分类",喜剧电影2[1280*720]
+https://6721.liveplay.now.qq.com/live/6721_2d461a1582c75519077ebde1830eb98c.m3u8?txSecret=50e0aa16617ebe0376ff80cc36fe1b4a&txTime=60CEBD96
+#EXTINF:-1 group-title="未分类",电影[1920*800]
+https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0000/c51103da90f442339e892f8711ab0998
+#EXTINF:-1 group-title="未分类",經典电影[1280*720]
+http://103.140.229.13/BOBO/bibi.php?id=23285297
+#EXTINF:-1 group-title="未分类",經典功夫[854*480]
+http://103.140.229.13/BOBO/bibi.php?id=21715386
+#EXTINF:-1 group-title="未分类",經典影艺[1280*720]
+http://103.140.229.13/BOBO/bibi.php?id=608888
+#EXTINF:-1 group-title="未分类",UHD影厅[1920*1080]
+http://103.140.229.13/BOBO/bibi.php?id=22449693
+#EXTINF:-1 group-title="未分类",阿梅影视[1280*720]
+http://103.140.229.13/BOBO/bibi.php?id=127343
+#EXTINF:-1 group-title="未分类",经典影视[1280*720]
+http://103.140.229.13/BOBO/bibi.php?id=23125843
+#EXTINF:-1 group-title="未分类",橙子1台[1920*1080]
+http://103.140.229.13/BOBO/bibi.php?id=23318788
+#EXTINF:-1 group-title="未分类",橙子2台[854*480]
+http://103.140.229.13/BOBO/bibi.php?id=21571201
+#EXTINF:-1 group-title="未分类",橙子3台[1280*720]
+http://103.140.229.13/BOBO/bibi.php?id=23318768
+#EXTINF:-1 group-title="未分类",橙子4台[1280*720]
+http://103.140.229.13/BOBO/bibi.php?id=23320714
+#EXTINF:-1 group-title="未分类",经典港剧[1280*720][1280*720][1280*720]
+http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv?uuid=
+#EXTINF:-1 group-title="未分类",喜剧影院[768*576][768*576][768*576]
+http://39.134.39.39/270000001322/69900158041111100000002189/index.m3u8
+#EXTINF:-1 group-title="未分类",动作影院[768*576][768*576][768*576]
+http://39.134.39.39/270000001322/69900158041111100000002188/index.m3u8
+#EXTINF:-1 group-title="未分类",武侠剧场[768*576][768*576][768*576]
+http://39.134.39.39/270000001322/69900158041111100000002190/index.m3u8
+#EXTINF:-1 group-title="未分类",马来影院[1280*720][1280*720][1280*720][1280*720]
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 group-title="未分类",国外影院[1280*720][1280*720][1280*720][1280*720]
+http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_382971876_4000.flv
+#EXTINF:-1 group-title="未分类",国内影院[1280*720][1280*720][1280*720][1280*720]
+http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_199681168_4000.flv
+#EXTINF:-1 group-title="未分类",恐怖影院[1280*720][1280*720][1280*720][1280*720]
+http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_363783415_4000.flv
+#EXTINF:-1 group-title="未分类",经典剧场[1280*720][1280*720][1280*720][1280*720]
+http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_616645877_4000.flv
+#EXTINF:-1 group-title="未分类",古装剧场[1920*1080][1920*1080][1920*1080][1920*1080][1920*1080]
+http://58.20.64.92:9999/tsfile/live/1044_1.m3u8
+#EXTINF:-1 group-title="未分类",经典影视HD[1280*720][1280*720][1280*720][1280*720]
+https://tx.liveplay.live.kugou.com/live/fx_hifi_251702616_avc.m3u8
+#EXTINF:-1 group-title="未分类",玄幻影院HD[1280*720][1280*720][1280*720][1280*720]
+https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
+#EXTINF:-1 group-title="未分类",天映电影HD[1280*720][1280*720][1280*720][1280*720]
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="未分类",天映经典HD[960*540][960*540][960*540][960*540]
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="未分类",CCTV16[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226880/index.m3u8
+#EXTINF:-1 group-title="未分类",韩国劲舞[1280*720][1280*720][1280*720][1280*720]
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgv5iohQYo__u7rAY.mp4
+#EXTINF:-1 group-title="未分类",喜剧联盟[2656*720][2656*720][1280*720][1711*720]
+http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
+#EXTINF:-1 group-title="未分类",古天乐影院[1280*720][1280*720][1280*720][1280*720]
+http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+#EXTINF:-1 group-title="未分类",成龙作品集[1469*720][1469*720][1280*720][1280*960]
+http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+#EXTINF:-1 group-title="未分类",周润发影院[1280*720][1280*720][1280*720][1280*720]
+http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+#EXTINF:-1 group-title="未分类",怀旧老片[1280*873][1280*873][1280*720][1280*995]
+http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
+#EXTINF:-1 group-title="未分类",周星驰影院[1280*720][1280*720][1280*720][1280*720]
+http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
+#EXTINF:-1 group-title="未分类",IPTV7+ HD[720*576][720*576][720*576][720*576]
+http://39.134.39.37/PLTV/88888888/224/3221226269/index.m3u8
+#EXTINF:-1 group-title="未分类",IPTV8+ HD[720*576][720*576][720*576][720*576]
+http://39.134.39.37/PLTV/88888888/224/3221226271/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV精品電影 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV超级电影 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV中国功夫 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV军事评论 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV军旅剧场 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV农业致富 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV动画王国 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV古装剧场 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV完美遊戲 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV家庭剧场 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV怡伴健康 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV明星大片 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV武搏世界 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV潮妈辣婆 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV爱情喜剧 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV精品体育 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV精品大剧 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV精品纪录 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV超级电影 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV超级电视剧 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV金牌综艺 (1080p)[1920*1080][1920*1080][1920*1080][1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:-1 group-title="未分类",SiTV幸福彩 (1080p) [Not 24/7][1920*1080][1920*1080][1920*1080][1920*1080]
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=73&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 group-title="未分类",SiTV新视觉 (1080p) [Not 24/7][1920*1080][1920*1080][1920*1080][1920*1080]
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=75&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 group-title="未分类",峨眉电影[785*576][785*576][785*576][785*576]
+http://mail.lacool.tk:8086/rtp/239.93.0.252:5140
+#EXTINF:-1 group-title="未分类",星光精彩视界电视剧轮播[1024*576][1280*720][1024*576][1024*576]
+http://zzy789.xyz/douyu1.php?id=5326177
+#EXTINF:-1 group-title="未分类",黑莓电影[1920*1080][1920*1080][1920*1080][1920*1080]
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 group-title="未分类",动作电影[1920*1080][1920*1080][1920*1080][1920*1080]
+http://117.136.154.98/PLTV/88888888/224/3221225690/index.m3u8
+#EXTINF:-1 group-title="未分类",湖南电影[1920*1080][1920*1080][1920*1080][1920*1080]
+http://124.232.231.246:6610/000000001001/201500000216/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 group-title="未分类",周润发影院[859*480][859*480][859*480]
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
+#EXTINF:-1 group-title="未分类",古龙作品集[859*480][859*480][859*480]
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
+#EXTINF:-1 group-title="未分类",周星驰影院[859*480][859*480][859*480]
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
+#EXTINF:-1 group-title="未分类",郭富城影院[859*480][859*480][859*480]
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
+#EXTINF:-1 group-title="未分类",吴京作品集[859*480][859*480][960*480]
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681368
+#EXTINF:-1 group-title="未分类",刘德华影院[852*517][1200*480][1152*480]
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
+#EXTINF:-1 group-title="未分类",经典港剧[1280*720][1280*720][1280*720]
+http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv?uuid=
+#EXTINF:-1 group-title="未分类",林正英电影[1280*720][1280*720][1280*720]
+https://3954-quic.liveplay.myqcloud.com/live/3954_363783415.flv
+#EXTINF:-1 group-title="未分类",军旅剧场[1280*720][800*600][800*600]
+http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
+#EXTINF:-1 group-title="未分类",怀旧影院[1280*720][1280*720][1280*720]
+http://hpull.kktv8.com/livekktv/153793844/playlist.m3u8
+#EXTINF:-1 group-title="未分类",开心影院[1280*720][1280*720][1280*720]
+http://hpull.kktv8.com/livekktv/134129360/playlist.m3u8
+#EXTINF:-1 group-title="未分类",乐视_动作电影[960*400][960*480][960*402]
+http://api.idianshijia.com/gslb/live?stream_id=lsloop_dongwu
+#EXTINF:-1 group-title="未分类",乐视_综艺节目[960*544][960*544][960*528]
+http://api.idianshijia.com/gslb/live?stream_id=lsloop_zongyi
+#EXTINF:-1 group-title="未分类",kk经典电影[1280*720][1280*720][1280*720]
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 group-title="未分类",kk影视[1280*720][1280*720][1280*720]
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 group-title="未分类",国内影院[1280*720][1280*720][1280*720]
+http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_199681168.m3u8
+#EXTINF:-1 group-title="未分类",经典[1280*720][1280*720][1280*720]
+https://tx.liveplay.live.kugou.com/live/fx_hifi_251702616_avc.m3u8
+#EXTINF:-1 group-title="未分类",林正英电影[1280*720][1280*720][1280*720]
+https://3954-quic.liveplay.myqcloud.com/live/3954_363783415.flv
+#EXTINF:-1 group-title="未分类",黑莓电影[1920*1080][1920*1080][1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
+#EXTINF:-1 group-title="未分类",酷狗小品2[1280*720][1280*720][1280*720]
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_1548332035_avc.m3u8
+#EXTINF:-1 group-title="未分类",酷狗漫威[1280*720][1280*720][1280*720]
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_121923509_avc.m3u8
+#EXTINF:-1 group-title="未分类",酷狗李连杰[1280*720][1280*720][1280*720]
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_1789509948_avc.m3u8
+#EXTINF:-1 group-title="未分类",酷狗惊悚影院[1280*720][1280*720][1280*720]
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_1308614369_avc.m3u8
+#EXTINF:-1 group-title="未分类",酷狗抗战[1280*720][1280*720][1280*720]
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_1175010873_avc.m3u8
+#EXTINF:-1 group-title="未分类",酷狗玄幻影院[1280*720][1280*720][1280*720]
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_1709548737_avc.m3u8
+#EXTINF:-1 group-title="未分类",酷狗还珠格格[1280*720][1280*720][1280*720]
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_1573309100_avc.m3u8
+#EXTINF:-1 group-title="未分类",酷狗谍战重影[1280*720][1280*720][1280*720]
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_336261891_avc.m3u8
+#EXTINF:-1 group-title="未分类",酷狗笑傲江湖[1280*720][1280*720][1280*720]
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_290507595_avc.m3u8
+#EXTINF:-1 group-title="未分类",女神经典
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 group-title="未分类",军旅剧场
+http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
+#EXTINF:-1 group-title="未分类",怀旧影院
+http://hpull.kktv8.com/livekktv/153793844/playlist.m3u8
+#EXTINF:-1 group-title="未分类",妖精影视
+http://hpull.kktv8.com/livekktv/97958887/playlist.m3u8
+#EXTINF:-1 group-title="未分类",开心影院
+http://hpull.kktv8.com/livekktv/134129360/playlist.m3u8
+#EXTINF:-1 group-title="未分类",生死狙击
+https://iqiyi-com.jjyl12349.com/20210517/yqHYQkt9/index.m3u8
+#EXTINF:-1 group-title="未分类",生死狙击
+https://iqiyi-com.jjyl12349.com/20210517/yqHYQkt9/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="未分类",FOX电影
+http://60.251.59.178:8527/http/192.168.77.7:8088/hls/105/startwest89.m3u8
+#EXTINF:-1 group-title="未分类",中国电影
+http://27.47.68.187:808/hls/61/index.m3u8
+#EXTINF:-1 group-title="未分类",私人电影
+http://27.47.68.187:808/hls/57/index.m3u8
+#EXTINF:-1 group-title="未分类",东森电影
+http://27.47.68.187:808/hls/58/index.m3u8
+#EXTINF:-1 group-title="未分类",东森洋片电影
+http://27.47.68.187:808/hls/59/index.m3u8
+#EXTINF:-1 group-title="未分类",天映经典电影
+http://27.47.68.187:808/hls/62/index.m3u8
+#EXTINF:-1 group-title="未分类",007
+https://cdn2.bzjupinhang.com:65/20211111/Eno8ZT4P/index.m3u8
+#EXTINF:-1 group-title="未分类",FOX电影
+http://60.251.59.178:8527/index.m3u8
+#EXTINF:-1 group-title="未分类",CHC家庭影院
+http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 group-title="未分类",CHC高清电影
+http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 group-title="未分类",CHC动作电影
+http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 group-title="未分类",中国功夫
+http://ott.js.chinamobile.com/TVOD/3/224/3221227530/index.m3u8
+#EXTINF:-1 group-title="未分类",求索科学
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 group-title="未分类",武搏世界
+http://ott.js.chinamobile.com/TVOD/3/224/3221227533/index.m3u8
+#EXTINF:-1 group-title="未分类",生活时尚
+http://39.134.134.89/000000001000/8538616372715313491/index.m3u
+#EXTINF:-1 group-title="未分类",风尚音乐
+http://39.134.134.89/000000001000/5529729098703832176/index.m3u8
+#EXTINF:-1 group-title="未分类",精品剧场
+http://39.134.134.89/000000001000/8230197131234717902/index.m3u8
+#EXTINF:-1 group-title="未分类",亚洲影院
+http://39.134.134.89/000000001000/5841816227539527643/index.m3u8
+#EXTINF:-1 group-title="未分类",国内影院
+http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_199681168_4000.flv
+#EXTINF:-1 group-title="未分类",恐怖影院
+http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_363783415_4000.flv
+#EXTINF:-1 group-title="未分类",经典剧场
+http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_616645877_4000.flv
+#EXTINF:-1 group-title="未分类",古装剧场[1920*1080]
+http://58.20.64.92:9999/tsfile/live/1044_1.m3u8
+#EXTINF:-1 group-title="未分类",憨夫成龙
+http://121.12.115.162/txdirect.hls.huya.com/src/1199563489752-1199563489752-5444361395506249728-2399127102960-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="未分类",荃加福禄寿探案
+http://121.12.115.162/txdirect.hls.huya.com/src/1199561181108-1199561181108-5434445845028143104-2399122485672-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="未分类",七公主
+http://121.12.115.162/txdirect.hls.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="未分类",洪武三十二
+http://121.12.115.162/txdirect.hls.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="未分类",聊斋
+http://121.12.115.162/txdirect.hls.huya.com/src/1199563483195-1199563483195-5444333233405689856-2399127089846-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="未分类",松鼠科幻
+http://106.53.212.251/daili/bili.php?id=6837959
+#EXTINF:-1 group-title="未分类",|松鼠动作
+http://106.53.212.251/daili/bili.php?id=6827037
+#EXTINF:-1 group-title="未分类",新片放映廳
+http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
+#EXTINF:-1 group-title="未分类",盜墓方法論
+http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
+#EXTINF:-1 group-title="未分类",試膽大會
+http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
+#EXTINF:-1 group-title="未分类",高能燒腦時刻
+http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
+#EXTINF:-1 group-title="未分类",經典影艺
+http://103.140.229.13/BOBO/bibi.php?id=608888
+#EXTINF:-1 group-title="未分类",动作影院
+http://115.207.200.179:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="未分类",欧美影院
+http://115.207.200.179:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="未分类",华语影院
+http://115.207.200.179:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="未分类",首映电影
+http://115.207.200.179:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="未分类",环球电影
+http://115.207.200.179:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="未分类",黄金剧场
+http://115.207.200.179:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="未分类",4K超清
+http://115.207.200.179:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="未分类",白金剧场
+http://115.207.200.179:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="未分类",谍战剧场
+http://115.207.200.179:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="未分类",古装剧场
+http://115.207.200.179:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="未分类",情感剧场
+http://115.207.200.179:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 group-title="未分类",好莱坞电影
+http://115.207.200.179:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="未分类",院线大片
+http://115.207.200.179:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 group-title="未分类",NHK World
+http://93.190.139.34:8278/nhkworld_japan/playlist.m3u8
+#EXTINF:-1 group-title="未分类",VTV6 HD
+http://93.190.139.34:8278/vtv6_viet/playlist.m3u8
+#EXTINF:-1 group-title="未分类",4K剧场
+http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
+#EXTINF:-1 group-title="未分类",爱情公寓
+http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
+#EXTINF:-1 group-title="未分类",军旅剧场
+http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
+#EXTINF:-1 group-title="未分类",SNH48剧场公演
+http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+#EXTINF:-1 group-title="未分类",红色谍战剧场
+http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
+#EXTINF:-1 group-title="未分类",少林剧场
+http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
+#EXTINF:-1 group-title="未分类",神探狄仁杰
+http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
+#EXTINF:-1 group-title="未分类",黄金剧场
+http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
+#EXTINF:-1 group-title="未分类",追剧少女
+http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
+#EXTINF:-1 group-title="未分类",古龙作品集
+http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
+#EXTINF:-1 group-title="未分类",经典贺岁片
+http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
+#EXTINF:-1 group-title="未分类",武侠剧场
+http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
+#EXTINF:-1 group-title="未分类",四海钓鱼[1280*720]
+http://117.148.179.160/PLTV/88888888/224/3221231718/index.m3u8
+#EXTINF:-1 group-title="未分类",ATV 1
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 group-title="未分类",4k古装剧场
+http://1.255.204.45:9981/stream/channelid/38708974#[url=http://gg.gg/AsiaMUHD]http://gg.gg/AsiaMUHD[/url]
+#EXTINF:-1 group-title="未分类",4k国际电影
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="未分类",周星驰1
+http://dyscdnali3.douyucdn.cn/live/6566671rpCGUuXGT.flv?uuid=
+#EXTINF:-1 group-title="未分类",周星驰2
+http://dyscdnali3.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
+#EXTINF:-1 group-title="未分类",周星驰3
+http://dyscdnali3.douyucdn.cn/live/3990812rJRamE8l5.flv?uuid=
+#EXTINF:-1 group-title="未分类",周星驰4
+http://dyscdnali3.douyucdn.cn/live/6566671rpCGUuXGT.flv?uuid=
+#EXTINF:-1 group-title="未分类",邵氏影院
+http://dyscdnali3.douyucdn.cn/live/4246519rvuwKN1cg.flv?uuid=
+#EXTINF:-1 group-title="未分类",江苏大众剧院
+http://112.25.63.197:8080/gitv_live/GITV-JS-1/GITV-JS-1.m3u8?p=GITV&area=JS_CMCC_CP
+#EXTINF:-1 group-title="未分类",江苏第一院线
+http://112.25.63.197:8080/gitv_live/GITV-JS-2/GITV-JS-2.m3u8?p=GITV&area=JS_CMCC_CP
+#EXTINF:-1 group-title="未分类",4K花园 UHD
+http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
+#EXTINF:-1 group-title="未分类",相声专场
+http://bp-caster.bestv.com.cn/512/1/video.m3u8
+#EXTINF:-1 group-title="未分类",电影-1
+http://bp-caster.bestv.com.cn/494/1/video.m3u8
+#EXTINF:-1 group-title="未分类",电影-2
+http://bp-caster.bestv.com.cn/532/1/video.m3u8
+#EXTINF:-1 group-title="未分类",电影-4
+http://bp-caster.bestv.com.cn/490/1/video.m3u8
+#EXTINF:-1 group-title="未分类",电影-5
+http://bp-caster.bestv.com.cn/480/1/video.m3u8
+#EXTINF:-1 group-title="未分类",七彩戏剧
+https://bp-caster.bestv.com.cn/250/1/video.m3u8
+#EXTINF:-1 group-title="未分类",周润发
+http://121.12.115.16/tx.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 group-title="未分类",徐峥
+http://121.12.115.16/tx.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="未分类",林正英
+http://121.12.115.162/txdirect.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="未分类",李连杰
+http://121.12.115.162/txdirect.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 group-title="未分类",CIBN经典剧场
+http://117.148.179.176/PLTV/88888888/224/3221231595/index.m3u8
+#EXTINF:-1 group-title="未分类",CIBN古装剧场
+http://117.148.179.160/PLTV/88888888/224/3221231625/index.m3u8
+#EXTINF:-1 group-title="未分类",CIBN骄阳剧场
+http://117.148.179.165/PLTV/88888888/224/3221231745/index.m3u8
+#EXTINF:-1 group-title="未分类",星光影视HD
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="未分类",四川影视HD
+http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+#EXTINF:-1 group-title="未分类",福州影视FHD
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 group-title="未分类",安徽影视
+http://zbbf2.ahtv.cn/live/756.m3u8
+#EXTINF:-1 group-title="未分类",西安影视
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",海西影视
+http://stream.haixitv.cn/1/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",吉林篮球
+http://223.110.242.133:6610/gitv/live1/G_LANQIU/G_LANQIU/
+#EXTINF:-1 group-title="未分类",吉林篮球
+http://stream1.jlntv.cn/lqpd/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",新视觉HD
+http://125.210.152.21:9120/live/XSJHD.m3u8
+#EXTINF:-1 group-title="未分类",4+汽车HD
+http://pull-g.kktv8.com/livekktv/50118532.flv
+#EXTINF:-1 group-title="未分类",体育赛事FHD
+http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8
+#EXTINF:-1 group-title="未分类",HWF散打HD
+http://pull-g.kktv8.com/livekktv/57588147.flv
+#EXTINF:-1 group-title="未分类",极速汽车FHD
+http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="未分类",华侨城FHD
+http://117.156.28.119/270000001111/1110000028/index.m3u8
+#EXTINF:-1 group-title="未分类",数码时代高清FHD
+http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="未分类",蓝光影
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="未分类",唐伯虎点秋香
+https://6721.liveplay.now.qq.com/live/6721_338ed8ff85c9f15e54294e4aa4c98b1e.m3u8?txSecret=cc887340b879606ee081c0ef74733650&txTime=60CEBD97
+#EXTINF:-1 group-title="未分类",喜剧电影2
+https://6721.liveplay.now.qq.com/live/6721_2d461a1582c75519077ebde1830eb98c.m3u8?txSecret=50e0aa16617ebe0376ff80cc36fe1b4a&txTime=60CEBD96
+#EXTINF:-1 group-title="未分类",电影
+https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0000/c51103da90f442339e892f8711ab0998
+#EXTINF:-1 group-title="未分类",經典影艺
+http://103.140.229.13/BOBO/bibi.php?id=608888
+#EXTINF:-1 group-title="未分类",UHD影厅
+http://103.140.229.13/BOBO/bibi.php?id=22449693
+#EXTINF:-1 group-title="未分类",阿梅影视
+http://103.140.229.13/BOBO/bibi.php?id=127343
+#EXTINF:-1 group-title="未分类",橙子1台
+http://103.140.229.13/BOBO/bibi.php?id=23318788
+#EXTINF:-1 group-title="未分类",橙子2台
+http://103.140.229.13/BOBO/bibi.php?id=21571201
+#EXTINF:-1 group-title="未分类",橙子3台
+http://103.140.229.13/BOBO/bibi.php?id=23318768
+#EXTINF:-1 group-title="未分类",橙子4台
+http://103.140.229.13/BOBO/bibi.php?id=23320714
+#EXTINF:-1 group-title="未分类",黑莓电影
+http://39.135.140.104:6610/PLTV/88888888/224/3221225718/2/index.m3u8
+#EXTINF:-1 group-title="未分类",都市剧场
+http://117.136.154.74/PLTV/88888888/224/3221225843/index.m3u8
+#EXTINF:-1 group-title="未分类",超级电影
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="未分类",超级电视剧
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="未分类",CHC家庭影院
+http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 group-title="未分类",CHC高清电影
+http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 group-title="未分类",CHC动作电影
+http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 group-title="未分类",kk电影频道1
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 group-title="未分类",kk电影频道2
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 group-title="未分类",SNH48劇場公演
+http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+#EXTINF:-1 group-title="未分类",周潤發
+http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+#EXTINF:-1 group-title="未分类",周星馳
+http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
+#EXTINF:-1 group-title="未分类",成龍
+http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+#EXTINF:-1 group-title="未分类",張國榮
+http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
+#EXTINF:-1 group-title="未分类",郭富城
+http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
+#EXTINF:-1 group-title="未分类",吳京
+http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
+#EXTINF:-1 group-title="未分类",劉德華
+http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
+#EXTINF:-1 group-title="未分类",楊冪
+http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
+#EXTINF:-1 group-title="未分类",劉亦菲
+http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
+#EXTINF:-1 group-title="未分类",古天樂
+http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+#EXTINF:-1 group-title="未分类",金庸頻道
+http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
+#EXTINF:-1 group-title="未分类",喜劇聯盟
+http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
+#EXTINF:-1 group-title="未分类",古天樂影院
+http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+#EXTINF:-1 group-title="未分类",成龍作品集
+http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+#EXTINF:-1 group-title="未分类",郭富城影院
+http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
+#EXTINF:-1 group-title="未分类",張國榮影院
+http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
+#EXTINF:-1 group-title="未分类",高分影院
+http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
+#EXTINF:-1 group-title="未分类",周潤發影院
+http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+#EXTINF:-1 group-title="未分类",懷舊老片
+http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
+#EXTINF:-1 group-title="未分类",周星馳影院
+http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
+#EXTINF:-1 group-title="未分类",午夜失眠劇場
+http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
+#EXTINF:-1 group-title="未分类",吳京作品集
+http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
+#EXTINF:-1 group-title="未分类",雲上電影院
+http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+#EXTINF:-1 group-title="未分类",每日科幻電影
+http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
+#EXTINF:-1 group-title="未分类",葛優作品集
+http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
+#EXTINF:-1 group-title="未分类",劉德華影院
+http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
+#EXTINF:-1 group-title="未分类",殭屍劇場
+http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
+#EXTINF:-1 group-title="未分类",劉亦菲影視展播
+http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
+#EXTINF:-1 group-title="未分类",TVB劇場
+http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+#EXTINF:-1 group-title="未分类",金庸頻道
+http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
+#EXTINF:-1 group-title="未分类",新片放映廳
+http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
+#EXTINF:-1 group-title="未分类",盜墓方法論
+http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
+#EXTINF:-1 group-title="未分类",試膽大會
+http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
+#EXTINF:-1 group-title="未分类",高能燒腦時刻
+http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
+#EXTINF:-1 group-title="未分类",楊冪作品集
+http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
+#EXTINF:-1 group-title="未分类",4K劇場
+http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
+#EXTINF:-1 group-title="未分类",愛情公寓
+http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
+#EXTINF:-1 group-title="未分类",軍旅劇場
+http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
+#EXTINF:-1 group-title="未分类",SNH48劇場公演
+http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+#EXTINF:-1 group-title="未分类",紅色諜戰劇場
+http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
+#EXTINF:-1 group-title="未分类",少林劇場
+http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
+#EXTINF:-1 group-title="未分类",神探狄仁傑
+http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
+#EXTINF:-1 group-title="未分类",黃金劇場
+http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
+#EXTINF:-1 group-title="未分类",追劇少女
+http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
+#EXTINF:-1 group-title="未分类",古龍作品集
+http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
+#EXTINF:-1 group-title="未分类",經典賀歲片
+http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
+#EXTINF:-1 group-title="未分类",每日薦影
+http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
+#EXTINF:-1 group-title="未分类",武俠劇場
+http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
+#EXTINF:-1 group-title="未分类",KK_经典好剧
+http://hpull.kktv8.com/livekktv/153793844/playlist.m3u8
+#EXTINF:-1 group-title="未分类",KK_科幻怪兽
+http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
+#EXTINF:-1 group-title="未分类",KK_喜剧电影
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 group-title="未分类",KK_女神影院
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 group-title="未分类",黑莓电影
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
+#EXTINF:-1 group-title="未分类",黑莓电影
+http://39.135.140.104:6610/PLTV/88888888/224/3221225718/2/index.m3u8
+#EXTINF:-1 group-title="未分类",都市剧场
+http://117.136.154.74/PLTV/88888888/224/3221225843/index.m3u8
+#EXTINF:-1 group-title="未分类",超级电影
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="未分类",超级电视剧
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="未分类",CHC家庭影院
+http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 group-title="未分类",CHC高清电影
+http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 group-title="未分类",CHC动作电影
+http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 group-title="未分类",kk电影频道1
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 group-title="未分类",kk电影频道2
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8

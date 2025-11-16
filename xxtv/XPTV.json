@@ -1,0 +1,1735 @@
+{
+    "sites": [
+        {
+      "name": "🔥ikanbot_兔",
+      "type": 3,
+      "api": "csp_ikanbot_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/ikanbot_tu.js"
+    },
+        {
+      "name": "🌈tg搜索｜PAN_兔",
+      "type": 3,
+      "api": "csp_tgs_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/tgs_tu.js"
+    },
+        {
+            "name": "🔥麦田影院_兔",
+            "type": 3,
+            "api": "csp_mtyy_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/mtyy_tu.js"
+        },
+        {
+            "name": "🔥youknow_兔",
+            "type": 3,
+            "api": "csp_youknow_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/youknow_tu.js"
+        },
+        {
+            "name": "🌈fmovies",
+            "type": 3,
+            "api": "csp_fmovies",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/fmovies.js"
+        },
+        {
+            "name": "🌈电影天堂",
+            "type": 1,
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🔥电影天堂-line|昊",
+            "type": 3,
+            "api": "csp_dytt",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/dytt.js"
+        },
+        {
+            "name": "🔥奈飞工厂_兔",
+            "type": 3,
+            "api": "csp_netflixgc_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/nycvod_tu.js"
+        },
+        {
+            "name": "🔥两个BT_兔",
+            "type": 3,
+            "api": "csp_bttwo_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/bttwo_tu.js"
+        },
+        {
+            "name": "🔥4kvm_兔",
+            "type": 3,
+            "api": "csp_4kvm_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/4kvm_tu.js"
+        },
+        {
+            "name": "🔥纽约影院_兔（无搜索）",
+            "type": 3,
+            "api": "csp_nycvod_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/nycvod_tu.js"
+        },
+        {
+            "name": "🔥影视TV-line|昊",
+            "type": 3,
+            "api": "csp_ysTV",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/ysTV.js"
+        },
+        {
+            "name": "🔥网飞猫-line|昊",
+            "type": 3,
+            "api": "csp_wfm",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/wfm.js"
+        },
+        {
+            "name": "🔥追影猫-line|昊",
+            "type": 3,
+            "api": "csp_zym",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/zym.js"
+        },
+        {
+            "name": "🔥全集网-line|昊",
+            "type": 3,
+            "api": "csp_qjw",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/qjw.js"
+        },
+        {
+            "name": "🔥剧迷TV-line|昊",
+            "type": 3,
+            "api": "csp_GimyTV",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/GimyTV.js"
+        },
+        {
+            "name": "🔥爱影剧网-line|昊",
+            "type": 3,
+            "api": "csp_aiyijw",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/aiyjw.js"
+        },
+        {
+            "name": "🔥vidhub|昊",
+            "type": 3,
+            "api": "csp_js/vidhub",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/vidhub.js"
+        },
+        {
+            "name": "🔥海龟TV-line|昊",
+            "type": 3,
+            "api": "csp_hgTV",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/hgtv.js"
+        },
+        {
+            "name": "🔥海龟TV🪜_兔",
+            "type": 3,
+            "api": "csp_haiguitv_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/haiguitv_tu.js"
+        },
+        {
+            "name": "🔥桃子影视-line|昊",
+            "type": 3,
+            "api": "csp_tzsp",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/taozi.js"
+        },
+        {
+            "name": "🔥大米星球-line|昊",
+            "type": 3,
+            "api": "csp_js/dmxq",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/dmxq.js"
+        },
+        {
+            "name": "🔥新视觉-line|昊",
+            "type": 3,
+            "api": "csp_js/xsjyy",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/xsjyy.js"
+        },
+        {
+            "name": "🔥555影视-line|昊",
+            "type": 3,
+            "api": "csp_js/555ys",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/555ys.js"
+        },
+        {
+            "name": "🔥厂长资源",
+            "type": 3,
+            "api": "csp_czzy",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/czzy.js"
+        },
+        {
+            "name": "🔥哔滴影视",
+            "type": 3,
+            "api": "csp_bde4",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/bdys.js"
+        },
+        {
+            "name": "🔥欧乐🪜",
+            "type": 3,
+            "api": "csp_Olevod",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ole.js"
+        },
+        {
+            "name": "🔥在线之家",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/zxzj.js"
+        },
+        {
+            "name": "🔥LIBVIO改",
+            "type": 3,
+            "api": "csp_libvio",
+            "ext": "https://gist.githubusercontent.com/occupy-pluto/67cc3a53a26c631e32ed2f37e19e479d/raw/c5244f43a051335729ce33f10f2e82e2e899f0a5/libvio.js"
+        },
+        {
+            "name": "🔥LIBVIO",
+            "type": 3,
+            "api": "csp_libviio",
+            "ext": "https://gist.githubusercontent.com/occupy-pluto/67cc3a53a26c631e32ed2f37e19e479d/raw/c5244f43a051335729ce33f10f2e82e2e899f0a5/libvio.js"
+        },
+        {
+            "name": "🔥libvio_兔",
+            "type": 3,
+            "api": "csp_libvio_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/libvio_tu.js"
+        },
+        {
+            "name": "🔥低端影视",
+            "type": 3,
+            "api": "csp_ddys",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ddys.js"
+        },
+        {
+            "name": "🔥独播库",
+            "type": 3,
+            "api": "csp_duboku",
+            "ext": "https://raw.githubusercontent.com/QH919/TV/refs/heads/main/duboku.js"
+        },
+        {
+            "name": "🔥假独播库_兔",
+            "type": 3,
+            "api": "csp_duboku_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/duboku_tu.js"
+        },
+        {
+            "name": "🔥4k-av",
+            "type": 3,
+            "api": "csp_4kav",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
+        },
+        {
+            "name": "🔥韓劇看看",
+            "type": 3,
+            "api": "csp_hjkk",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hjkk.js"
+        },
+        {
+            "name": "🔥金牌影院",
+            "type": 3,
+            "api": "csp_jpyy",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js"
+        },
+        {
+            "name": "🔥燒火電影",
+            "type": 3,
+            "api": "csp_saohuo",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/saohuo.js"
+        },
+        {
+            "name": "🔥素白白影視",
+            "type": 3,
+            "api": "csp_subaibai",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/subaibai.js"
+        },
+        {
+            "name": "🔥NO視頻",
+            "type": 3,
+            "api": "csp_novipnoad",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/novipnoad.js"
+        },
+        {
+            "name": "🔥星芽短劇",
+            "type": 3,
+            "api": "csp_xingya",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
+        },
+        {
+            "name": "🔥瓜子",
+            "type": 3,
+            "api": "csp_guazi",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/gzys.js"
+        },
+        {
+            "name": "🔥瓜子web_兔",
+            "type": 3,
+            "api": "csp_guazi_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/guazi_tu.js"
+        },
+        {
+            "name": "🔥anfuns",
+            "type": 3,
+            "api": "csp_anfuns",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/anfuns.js"
+        },
+        {
+            "name": "🔥anfuns",
+            "type": 3,
+            "api": "csp_js/anfuns",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/anfuns.js"
+        },
+        {
+            "name": "🔥愛壹帆",
+            "type": 3,
+            "api": "csp_iyftv",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/iyftv.js"
+        },
+        {
+            "name": "🔥天天影視",
+            "type": 3,
+            "api": "csp_tiantian",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/tiantian.js"
+        },
+        {
+            "name": "🔥追光影视",
+            "type": 3,
+            "api": "csp_sgsd",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/sgsd.js"
+        },
+        {
+            "name": "🔥影视天堂",
+            "type": 3,
+            "api": "csp_ystt",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ystt.js"
+        },
+        {
+            "name": "🔥hdmoli",
+            "type": 3,
+            "api": "csp_hdmoli",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/hdmoli.js"
+        },
+        {
+            "name": "🔥小蘋果",
+            "type": 3,
+            "api": "csp_apple",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/apple.js"
+        },
+        {
+            "name": "🔥老地方",
+            "type": 3,
+            "api": "csp_laodifang",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/laodifang.js"
+        },
+        {
+            "name": "🔥老地方-line|昊",
+            "type": 3,
+            "api": "csp_liaodifang",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/laodifang.js"
+        },
+        {
+            "name": "🔥小紅影視",
+            "type": 3,
+            "api": "csp_xiaohys",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xiaohys.js"
+        },
+        {
+            "name": "🔥零度影視",
+            "type": 3,
+            "api": "csp_zero",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/zero.js"
+        },
+        {
+            "name": "🎃次元方舟_兔",
+            "type": 3,
+            "api": "csp_cyfz_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/cyfz_tu.js"
+        },
+        {
+            "name": "🎃喵物次元_兔",
+            "type": 3,
+            "api": "csp_mwcy_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/mwcy_tu.js"
+        },
+        {
+            "name": "🎃ギリギリ动漫_兔",
+            "type": 3,
+            "api": "csp_girigirilove_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/girigirilove_tu.js"
+        },
+        {
+            "name": "🎃次元城动画（无搜索）_兔",
+            "type": 3,
+            "api": "csp_cyc_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/cyc_tu.js"
+        },
+        {
+            "name": "🎃嗷嗚動漫",
+            "type": 3,
+            "api": "csp_aowu",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/aowu.js"
+        },
+        {
+            "name": "🎃ギリギリ动漫",
+            "type": 3,
+            "api": "csp_ai",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ai.js"
+        },
+        {
+            "name": "🎃AGE动漫",
+            "type": 3,
+            "api": "csp_age",
+            "ext": "https://gist.githubusercontent.com/occupy-pluto/e3a7bb98d5027d0f6dfa85fc2ac11a78/raw/6deb0475d295ac867ccb9c7cf3b1fb212a77abd7/agedm.js"
+        },
+        {
+            "name": "🎃樱花动漫-line|昊",
+            "type": 3,
+            "api": "csp_yhdm",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/yhdm.js"
+        },{
+      "name": "🎃稀饭动漫_兔",
+      "type": 3,
+      "api": "csp_xifanacg_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/xifanacg_tu.js"
+    },
+        {
+            "name": "🐤主播(live)",
+            "type": 3,
+            "api": "csp_harunasan",
+            "ext": "https://gist.githubusercontent.com/Yswag/d9f072b75dab5b1b107c523dd148eea3/raw/harunasan.js"
+        },
+        {
+            "name": "🐤MISSAV",
+            "type": 3,
+            "api": "csp_miss",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/missav.js"
+        },
+        {
+            "name": "🐤missav",
+            "type": 3,
+            "api": "csp_js/missav",
+            "ext": "https://raw.githubusercontent.com/fengtangyuan/nodejs/refs/heads/main/missav.js"
+        },
+        {
+            "name": "🐤Rouvideo",
+            "type": 3,
+            "api": "csp_Rouvideo",
+            "ext": "https://raw.githubusercontent.com/hant1ng/xptv/refs/heads/main/Rouvideo.js"
+        },
+        {
+            "name": "🐤肉视频",
+            "type": 3,
+            "api": "csp_js/rousp",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/rousp.js"
+        },
+        {
+            "name": "🐤肉视频",
+            "type": 3,
+            "api": "csp_rou",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/rou.js"
+        },
+        {
+            "name": "🐤91Porn",
+            "type": 3,
+            "api": "csp_91Porn",
+            "ext": "https://raw.githubusercontent.com/hant1ng/xptv/refs/heads/main/91porn.js"
+        },
+        {
+            "name": "🐤91jav (無海報)",
+            "type": 3,
+            "api": "csp_91jav",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/91jav.js"
+        },
+        {
+            "name": "🐤jable",
+            "type": 3,
+            "api": "csp_jable",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jable.js"
+        },
+        {
+            "name": "🐤Pornhub",
+            "type": 3,
+            "api": "csp_pornhub",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/pornhub.js"
+        },
+        {
+            "name": "🐤SupJav",
+            "type": 3,
+            "api": "csp_SupJav",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/SupJav.js"
+        },
+        {
+            "name": "🐤hohoj",
+            "type": 3,
+            "api": "csp_hohoj",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hohoj.js"
+        },
+        {
+            "name": "🐤Taiav",
+            "type": 3,
+            "api": "csp_Taiav",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/taiav.js"
+        },
+        {
+            "name": "🐤JavMove",
+            "type": 3,
+            "api": "csp_JavMove",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/javmove.js"
+        },
+        {
+            "name": "🐤pppHub",
+            "type": 3,
+            "api": "csp_pp/ron",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/pppPorn.js"
+        },
+        {
+            "name": "🐤pppHub",
+            "type": 3,
+            "api": "csp_ppron",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ppp.js"
+        },
+        {
+            "name": "🐤AVDB",
+            "type": 3,
+            "api": "csp_avdb",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/avdb.js"
+        },
+        {
+            "name": "🐤KanAV",
+            "type": 3,
+            "api": "csp_kanav",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/kanav.js"
+        },
+        {
+            "name": "🐤avtoday",
+            "type": 3,
+            "api": "csp_avtoday",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/avtoday.js"
+        },
+        {
+            "name": "🐤xhamster_兔",
+            "type": 3,
+            "api": "csp_xhamster_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/av/xhamster_tu.js"
+        },
+        {
+            "name": "🐤麻豆社",
+            "type": 3,
+            "api": "csp_madou",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/madou.js"
+        },
+        {
+            "name": "🐤麻豆村|昊",
+            "type": 3,
+            "api": "csp_js/madoucun",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/madoucun.js"
+        },
+        {
+            "name": "🐤玩偶姐姐",
+            "type": 3,
+            "api": "csp_hkdoll",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hkdoll.js"
+        },
+        {
+            "name": "🐤Hanime1",
+            "type": 3,
+            "api": "csp_Hanime1",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hanime.js"
+        },
+        {
+            "name": "🐤KoreaPornMovie",
+            "type": 3,
+            "api": "csp_KPM",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/KoreaPornMovie.js"
+        },
+        {
+            "name": "🐤花都影視",
+            "type": 3,
+            "api": "csp_hdys",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hdys.js"
+        },
+        {
+            "name": "🐤有爱爱",
+            "type": 3,
+            "api": "csp_uaa",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/uua.js"
+        },
+        {
+            "name": "🐤kbjfan",
+            "type": 3,
+            "api": "csp_kbjfan",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/kbjfan.js"
+        },
+        {
+            "name": "🐤twivideo",
+            "type": 3,
+            "api": "csp_twivideo",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/twivideo.js"
+        },
+        {
+            "name": "🐤naixxzy|昊",
+            "type": 3,
+            "api": "csp_js/naixxzy",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/naixxzy.js"
+        },
+        {
+            "name": "🐤SpankBang",
+            "type": 3,
+            "api": "csp_SpankBang",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/SpankBang.js"
+        },
+        {
+            "name": "🐤EXPORNTOONS",
+            "type": 3,
+            "api": "csp_EXPORNTOONS",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/EXPORNTOONS.js"
+        },
+        {
+            "name": "🌸玩偶哥哥 | PAN",
+            "type": 3,
+            "api": "csp_wogg",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/wogg.js"
+        },
+        {
+            "name": "🌸南風短劇 | PAN",
+            "type": 3,
+            "api": "csp_nanfdj",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/nanfdj.js"
+        },
+        {
+            "name": "🌸多多影音 | PAN",
+            "type": 3,
+            "api": "csp_yydsys",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/yydsys.js"
+        },
+        {
+            "name": "🌸蜡笔盘 | PAN",
+            "type": 3,
+            "api": "csp_labi",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/labipan.js"
+        },
+        {
+            "name": "🌸木偶 | PAN",
+            "type": 3,
+            "api": "csp_muou",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/muou.js"
+        },
+        {
+            "name": "🌸木偶|盘",
+            "type": 3,
+            "api": "csp_js/muou",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/muou.js"
+        },
+        {
+            "name": "🌸云盘资源网 | PAN",
+            "type": 3,
+            "api": "csp_yunpanres",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/yunpanres.js"
+        },
+        {
+            "name": "🌸校长影视 | PAN",
+            "type": 3,
+            "api": "csp_xzys",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/xzys.js"
+        },
+        {
+            "name": "🌸校长影视",
+            "type": 3,
+            "api": "csp_js/xzys",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/xzys.js"
+        },
+        {
+            "name": "🌸雷鲸 | PAN",
+            "type": 3,
+            "api": "csp_leijing",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/leijing.js"
+        },
+        {
+            "name": "🌸欧哥 | PAN",
+            "type": 3,
+            "api": "csp_ouge",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ouge.js"
+        },
+        {
+            "name": "🌸云盘吧 | PAN",
+            "type": 3,
+            "api": "csp_yunpan8",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/yunpan8.js"
+        },
+        {
+            "name": "🌸小米 | PAN",
+            "type": 3,
+            "api": "csp_mihdr",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/mihdr.js"
+        },
+        {
+            "name": "🌸小米UC | PAN(昊)",
+            "type": 3,
+            "api": "csp_js/mucpan",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/mucpan.js"
+        },
+        {
+            "name": "🌸小米UC视频-pan|昊",
+            "type": 3,
+            "api": "csp_js/mucpan",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/mucpan.js"
+        },
+        {
+            "name": "🌸闪电UC | PAN",
+            "type": 3,
+            "api": "csp_shandian",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/shandian.js"
+        },
+        {
+            "name": "🌸奥秘 | PAN",
+            "type": 3,
+            "api": "csp_aomi",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/aomi.js"
+        },
+        {
+            "name": "🌸六趣 | PAN",
+            "type": 3,
+            "api": "csp_luiqu",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/liuqu.js"
+        },
+        {
+            "name": "🌸白嫖 | PAN",
+            "type": 3,
+            "api": "csp_baipiao",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/baipiao.js"
+        },
+        {
+            "name": "🌸虎斑 | PAN",
+            "type": 3,
+            "api": "csp_huban",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/huban.js"
+        },
+        {
+            "name": "🌸下饭 | PAN",
+            "type": 3,
+            "api": "csp_xiafan",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/xiafan.js"
+        },
+        {
+            "name": "🌸特下饭|盘",
+            "type": 3,
+            "api": "csp_js/xiafan",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/xiafan.js"
+        },
+        {
+            "name": "🌸SeedHub | PAN",
+            "type": 3,
+            "api": "csp_seedhub",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/seedhub.js"
+        },
+        {
+            "name": "🌸Star2 | PAN",
+            "type": 3,
+            "api": "csp_star2",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/star2.js"
+        },
+        {
+            "name": "🌸观影 | PAN",
+            "type": 3,
+            "api": "csp_guanying",
+            "ext": "https://raw.githubusercontent.com/QH919/TV/refs/heads/main/xptv/gy.js"
+        },
+        {
+            "name": "🌸观影网-line-pan|昊",
+            "type": 3,
+            "api": "csp_js/GYINGi",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/GYING-line-pan.js"
+        },
+        {
+            "name": "🌸TG搜 | PAN",
+            "type": 3,
+            "api": "csp_tgs",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/tgs.js"
+        },
+        {
+            "name": "🌸天逸搜 | PAN搜索",
+            "type": 3,
+            "api": "csp_tianyiso",
+            "ext": "https://gist.githubusercontent.com/occupy-pluto/874d9b180bcaff91e2dac06d38ed8474/raw/tianyiso.js"
+        },
+        {
+            "name": "🌸云巢 | PAN",
+            "type": 3,
+            "api": "csp_js/yunchao",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/yunchao.js"
+        },
+        {
+            "name": "🌸云巢-pan|昊",
+            "type": 3,
+            "api": "csp_js/yunchao",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/yunchao.js"
+        },
+        {
+            "name": "🌸小盘盘 | PAN",
+            "type": 3,
+            "api": "csp_xpanpan",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/xpanpan.js"
+        },
+        {
+            "name": "🌸趣盘搜|昊",
+            "type": 3,
+            "api": "csp_js/qps",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/qps.js"
+        },
+        {
+            "name": "🌸小虎斑|盘",
+            "type": 3,
+            "api": "csp_js/huban",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/huban.js"
+        },
+        {
+            "name": "🌸美剧迷-pan|昊",
+            "type": 3,
+            "api": "csp_js/meijumi",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/meijumi.js"
+        },
+        {
+            "name": "🌸剧集TV-line-pan|昊",
+            "type": 3,
+            "api": "csp_js/TV-line-pan",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/jujiTV-line-pan.js"
+        },
+        {
+            "key": "🈲🔞奶香资源",
+            "name": "🈲🔞奶香资源",
+            "type": 1,
+            "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "🈲🔞老色逼资源站",
+            "name": "🈲🔞老色逼资源站",
+            "type": 1,
+            "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "🈲🔞幸资源站",
+            "name": "🈲🔞幸资源站",
+            "type": 1,
+            "api": "https://xzybb1.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "🈲🔞百花资源",
+            "name": "🈲🔞百花资源",
+            "type": 1,
+            "api": "https://bhziyuan.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 0
+        },
+        {
+            "key": "🈲🔞黄AV资源",
+            "name": "🈲🔞黄AV资源",
+            "type": 1,
+            "api": "https://www.pgxdy.com/api/json.php?ac=list",
+            "searchable": 1,
+            "quickSearch": 0
+        },
+        {
+            "key": "🈲🔞iKun资源",
+            "name": "🈲🔞iKun资源",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json/",
+            "searchable": 1,
+            "quickSearch": 0
+        },
+        {
+            "key": "🈲🔞丝袜资源",
+            "name": "🈲🔞丝袜资源",
+            "type": 1,
+            "api": "https://siwazyw.tv/api.php/provide/vod/at/json/",
+            "searchable": 1,
+            "quickSearch": 0
+        },
+        {
+            "key": "🈲🔞优异资源",
+            "name": "🈲🔞优异资源",
+            "type": 1,
+            "api": "https://a.uezy.pw/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 0
+        },
+        {
+            "key": "🈲🔞湿乐园",
+            "name": "🈲🔞湿乐园",
+            "type": 1,
+            "api": "https://xxavs.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 0
+        },
+        {
+            "key": "🈲🔞番茄资源",
+            "name": "🈲🔞番茄资源",
+            "type": 1,
+            "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞Jkun资源",
+            "name": "🈲🔞Jkun资源",
+            "type": 1,
+            "api": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞香奶儿资源",
+            "name": "🈲🔞香奶儿资源",
+            "type": 1,
+            "api": "https://www.gdlsp.com/api/json.php?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞淫水机资源",
+            "name": "🈲🔞淫水机资源",
+            "type": 1,
+            "api": "https://www.xrbsp.com/api/json.php?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞美少女资源",
+            "name": "🈲🔞美少女资源",
+            "type": 1,
+            "api": "https://www.msnii.com/api/json.php?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞白嫖资源",
+            "name": "🈲🔞白嫖资源",
+            "type": 1,
+            "api": "https://www.kxgav.com/api/json.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞奶香香资源",
+            "name": "🈲🔞奶香香资源",
+            "type": 1,
+            "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞越南资源",
+            "name": "🈲🔞越南资源",
+            "type": 1,
+            "api": "https://api.vnzyz.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞乐播资源",
+            "name": "🈲🔞乐播资源",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/at/json/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞155资源",
+            "name": "🈲🔞155资源",
+            "type": 1,
+            "api": "https://155api.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞辣椒资源",
+            "name": "🈲🔞辣椒资源",
+            "type": 1,
+            "api": "https://apilj.com/api.php/provide/vod/at/json/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞滴滴资源网",
+            "name": "🈲🔞滴滴资源网",
+            "type": 1,
+            "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞最色资源",
+            "name": "🈲🔞最色资源",
+            "type": 1,
+            "api": "https://api.zuiseapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞搜AV资源",
+            "name": "🈲🔞搜AV资源",
+            "type": 1,
+            "api": "https://api.souavzy.vip/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞CK伦理资源",
+            "name": "🈲🔞CK伦理资源",
+            "type": 1,
+            "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞黄色仓库",
+            "name": "🈲🔞黄色仓库",
+            "type": 1,
+            "api": "https://hsckzy888.com/api.php/provide/vod/at/json/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞小鸡资源",
+            "name": "🈲🔞小鸡资源",
+            "type": 1,
+            "api": "https://api.xiaojizy.live/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞百万资源站",
+            "name": "🈲🔞百万资源站",
+            "type": 1,
+            "api": "https://api.bwzyz.com/api.php/provide/vod/at/json/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞桃花资源",
+            "name": "🈲🔞桃花资源",
+            "type": 1,
+            "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞优优资源网",
+            "name": "🈲🔞优优资源网",
+            "type": 1,
+            "api": "https://www.yyzywcj.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞91资源站",
+            "name": "🈲🔞91资源站",
+            "type": 1,
+            "api": "https://91jpzyw.com/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞大奶子资源站",
+            "name": "🈲🔞大奶子资源站",
+            "type": 1,
+            "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞细胞网资源站",
+            "name": "🈲🔞细胞网资源站",
+            "type": 1,
+            "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🈲🔞杏吧资源站",
+            "name": "🈲🔞杏吧资源站",
+            "type": 1,
+            "api": "https://xingba222.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "越南资源",
+            "name": "🈲🔞越南资源",
+            "type": 1,
+            "api": "https://api.sexnguon.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 0
+        },
+        {
+            "name": "🔞91视频|AV",
+            "type": 1,
+            "api": "https://91av.cyou/api.php/provide/vod/"
+        },
+        {
+            "name": "🔞细胞资源|AV",
+            "type": 1,
+            "api": "https://www.xxibaozyw.com/api.php/provide/vod"
+        },
+        {
+            "name": "🔞森林资源|AV",
+            "type": 1,
+            "api": "https://slapibf.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🔞探探资源|AV",
+            "type": 1,
+            "api": "https://apittzy.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🔞奥斯卡资源|AV",
+            "type": 1,
+            "api": "https://aosikazy.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🔞老鸭资源|AV",
+            "type": 1,
+            "api": "https://api.apilyzy.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🔞91麻豆|AV",
+            "type": 1,
+            "api": "https://91md.me/api.php/provide/vod/"
+        },
+        {
+            "name": "🔞易看资源|AV",
+            "type": 1,
+            "api": "https://api.yikanapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🔞番号资源|AV",
+            "type": 1,
+            "api": "http://fhapi9.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🔞鲨鱼资源|AV",
+            "type": 1,
+            "api": "https://shayuapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🔞AIvin|AV",
+            "type": 1,
+            "api": "http://lbapiby.com/api.php/provide/vod/at/json"
+        },
+        {
+            "name": "🔞黄瓜资源|AV",
+            "type": 1,
+            "api": "https://www.zy018.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🔞玉兔资源|AV",
+            "type": 1,
+            "api": "https://apiyutu.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🔞辣椒资源|AV",
+            "type": 1,
+            "api": "https://apilj.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🔞奶香香|AV",
+            "type": 1,
+            "api": "https://Naixxzy.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🔞精品资源|AV",
+            "type": 1,
+            "api": "https://www.jingpinx.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🔞草榴资源|AV",
+            "type": 1,
+            "api": "https://www.caoliuzyw.com/api.php/prodao/vod/"
+        },
+        {
+            "name": "🔞老色逼资源|AV",
+            "type": 1,
+            "api": "https://apilsbzy1.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩360|点播",
+            "type": 1,
+            "api": "https://360zy.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩豆瓣|点播",
+            "type": 1,
+            "api": "https://caiji.dbzy.tv/api.php/provide/vod/at/josn"
+        },
+        {
+            "name": "🚩旺旺|点播",
+            "type": 1,
+            "api": "https://api.wwzy.tv/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩墨斗|点播",
+            "type": 1,
+            "api": "https://www.mdzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩黑木耳|点播",
+            "type": 1,
+            "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩华为吧|点播",
+            "type": 1,
+            "api": "https://hw8.live/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩腐剧|点播",
+            "type": 1,
+            "api": "http://www.fuju2024.cc:8013/ruifenglb_api.php/provide/vod/"
+        },
+        {
+            "name": "🚩金鹰|点播",
+            "type": 1,
+            "api": "https://jinyingzy.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩OK|点播",
+            "type": 1,
+            "api": "https://okzyw9.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩宝片|点播",
+            "type": 1,
+            "api": "https://zpsps.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩小黄人|点播",
+            "type": 1,
+            "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩牛牛|点播",
+            "type": 1,
+            "api": "https://api.niuniuzy.me/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩丫丫|点播",
+            "type": 1,
+            "api": "https://cj.yayazy.net/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩影图|点播",
+            "type": 1,
+            "api": "https://cj.vodimg.top/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩U酷|点播",
+            "type": 1,
+            "api": "https://api.ukuapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩豪华|点播",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod"
+        },
+        {
+            "name": "🚩极速|点播",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod"
+        },
+        {
+            "name": "🚩索尼|点播",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩ikun|点播",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩非凡|点播",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩量子|点播",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩暴风|点播",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩红牛|点播",
+            "type": 1,
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩快车|点播",
+            "type": 1,
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"
+        },
+        {
+            "name": "🚩闪电|点播",
+            "type": 1,
+            "api": "http://sdzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩樱花|点播",
+            "type": 1,
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩卧龙|点播",
+            "type": 1,
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩虎牙|点播",
+            "type": 1,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩飘零|点播",
+            "type": 1,
+            "api": "https://p2100.net/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩无尽|点播",
+            "type": 1,
+            "api": "https://api.wujinapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩速博|点播",
+            "type": 1,
+            "api": "https://subocaiji.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩魔都|点播",
+            "type": 1,
+            "api": "https://caiji.moduapi.cc/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩最大|点播",
+            "type": 1,
+            "api": "http://zuidazy.me/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩火狐|点播",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "🚩新浪|点播",
+            "type": 1,
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
+        },
+        {
+            "key": "视频采集",
+            "name": "🚩iKun采集视频",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "filterable": 0,
+            "categories": [
+                "爽文短剧",
+                "灾难片",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片"
+            ]
+        },
+        {
+            "key": "光速资源",
+            "name": "🚩光速┃采集",
+            "type": 1,
+            "api": "http://api.guangsuapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "电影",
+                "电视剧",
+                "综艺",
+                "动漫",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "剧情片",
+                "恐怖片",
+                "战争片",
+                "大陆剧",
+                "欧美剧",
+                "港澳剧",
+                "韩剧",
+                "动漫电影",
+                "日剧",
+                "台湾剧",
+                "泰剧",
+                "记录片",
+                "伦理片",
+                "体育赛事",
+                "短剧"
+            ]
+        },
+        {
+            "key": "极速资源",
+            "name": "🚩极速┃采集",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "日剧",
+                "马泰剧",
+                "内地剧",
+                "欧美剧",
+                "香港剧",
+                "韩剧",
+                "台湾剧",
+                "恐怖片",
+                "动画片",
+                "剧情片",
+                "战争片",
+                "动作片",
+                "记录片",
+                "爱情片",
+                "喜剧片",
+                "科幻片",
+                "灾难片",
+                "悬疑片",
+                "犯罪片",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫"
+            ]
+        },
+        {
+            "key": "红牛资源",
+            "name": "🚩红牛┃采集",
+            "type": 1,
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/josn/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "港澳剧",
+                "日剧",
+                "欧美剧",
+                "台湾剧",
+                "泰剧",
+                "韩剧",
+                "纪录片",
+                "动漫电影"
+            ]
+        },
+        {
+            "key": "茅台资源",
+            "name": "🚩茅台资源",
+            "type": 1,
+            "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "豆瓣采集",
+            "name": "🚩豆瓣采集",
+            "type": 1,
+            "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "索尼采集",
+            "name": "🚩索尼采集",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "无尽采集",
+            "name": "🚩无尽采集",
+            "type": 1,
+            "api": "https://wjzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "速播采集",
+            "name": "🚩速播采集",
+            "type": 1,
+            "api": "https://subocj.com/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "U酷采集",
+            "name": "🚩U酷采集",
+            "type": 1,
+            "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "百度云采集",
+            "name": "🚩百度云采集",
+            "type": 1,
+            "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "新浪资源采集",
+            "name": "🚩新浪资源采集",
+            "type": 1,
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "快车资源采集",
+            "name": "🚩快车资源采集",
+            "type": 1,
+            "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "金鹰资源采集",
+            "name": "🚩金鹰资源采集",
+            "type": 1,
+            "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "卧龙资源采集",
+            "name": "🚩卧龙资源采集",
+            "type": 1,
+            "api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "鸭鸭资源采集",
+            "name": "🚩鸭鸭资源采集",
+            "type": 1,
+            "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "闪电资源采集",
+            "name": "🚩闪电资源采集",
+            "type": 1,
+            "api": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "非凡资源采集",
+            "name": "🚩非凡资源采集",
+            "type": 1,
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "爱奇艺资源采集",
+            "name": "🚩爱奇艺资源采集",
+            "type": 1,
+            "api": "https://iqiyizyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "魔爪资源网",
+            "name": "🚩魔爪资源网",
+            "type": 1,
+            "api": "https://mozhuazy.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "牛牛资源",
+            "name": "🚩牛牛资源",
+            "type": 1,
+            "api": "https://api2.niuniuzy.me/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "猫眼资源采集",
+            "name": "🚩猫眼资源采集",
+            "type": 1,
+            "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "虎牙资源网",
+            "name": "🚩虎牙资源网",
+            "type": 1,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "魔都资源网",
+            "name": "🚩魔都资源网",
+            "type": 1,
+            "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "量子资源",
+            "name": "🚩量子资源",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "360资源",
+            "name": "🚩360资源",
+            "type": 1,
+            "api": "https://360zyzz.com/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "优质资源库",
+            "name": "🚩优质资源库",
+            "type": 1,
+            "api": "https://api.yzzy-api.com/inc/apijson.php?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "猫眼资源",
+            "name": "🚩猫眼资源",
+            "type": 1,
+            "api": "https://api.maoyanapi.top/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "OK资源",
+            "name": "🚩OK资源",
+            "type": 1,
+            "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "建安解析",
+            "name": "🚩建安解析",
+            "type": 1,
+            "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "天涯资源",
+            "name": "🚩天涯资源",
+            "type": 1,
+            "api": "https://tyyszyapi.com/api.php/provide/vod/at/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "速播资源",
+            "name": "🚩速播资源",
+            "type": 1,
+            "api": "https://subocj.com/api.php/provide/vod/from/subyun/at/json",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "建安资源",
+            "name": "🚩建安资源",
+            "type": 1,
+            "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/from/qq/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "极速资源",
+            "name": "🚩极速资源",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/from/jsyun/at/json",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1
+        }
+    ]
+}
