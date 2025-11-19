@@ -1,6 +1,12 @@
 {
     "sites": [
         {
+      "name": "🔥飞快TV_兔",
+      "type": 3,
+      "api": "csp_feikuai_tu",
+      "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/feikuai_tu.js"
+    },
+        {
       "name": "🔥ikanbot_兔",
       "type": 3,
       "api": "csp_ikanbot_tu",
